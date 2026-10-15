@@ -17,7 +17,7 @@ CarryOn equips a frozen vision-language-action (VLA) policy with two connected l
 
 ## News
 
-- **2026-10-13:** Code will be released soon.
+- **2026-10-15:** Code will be released soon in three weeks.
 
 ## Project Video
 
