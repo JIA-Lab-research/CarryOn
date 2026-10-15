@@ -9,10 +9,20 @@
 
 CarryOn equips a frozen vision-language-action (VLA) policy with two connected loops: a **planning loop** that adapts tasks to the user and scene, and an **execution loop** that checks actions for contact risk and repairs failures. Visual feedback connects both loops throughout the task.
 
+## Content
+
+- [News](#news)
+- [Project Video](#project-video)
+- [Method](#method)
+
+## News
+
+- **2026-10-13:** Code will be released soon.
+
 ## Project Video
 
 <p align="center">
-  <video src="https://vincent2311.github.io/Projects/CarryOn/assets/video/carryon-overview.mp4" controls="controls" playsinline="playsinline" width="100%"></video>
+  <video src="https://vincent2311.github.io/Projects/CarryOn/assets/video/carryon-v8.mp4" controls="controls" playsinline="playsinline" width="100%"></video>
 </p>
 
 ## Method
