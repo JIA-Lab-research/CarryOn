@@ -21,9 +21,11 @@ CarryOn equips a frozen vision-language-action (VLA) policy with two connected l
 
 ## Project Video
 
-<p align="center">
-  <video src="https://vincent2311.github.io/Projects/CarryOn/assets/video/carryon-v8.mp4" controls="controls" playsinline="playsinline" width="100%"></video>
-</p>
+
+
+https://github.com/user-attachments/assets/da8d01b8-b8b5-42d4-acec-96ecb626f0ff
+
+
 
 ## Method
 
