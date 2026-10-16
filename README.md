@@ -3,7 +3,7 @@
 # CarryOn
 ### A Dual-Loop Harness for Personalized and Reliable Robot Assistance
 
-[**Project Page**](https://vincent2311.github.io/Projects/CarryOn/)
+[**Project Page**](https://vincent2311.github.io/Projects/CarryOn/) · [**Paper (arXiv)**](https://arxiv.org/abs/2610.21453)
 
 </div>
 
