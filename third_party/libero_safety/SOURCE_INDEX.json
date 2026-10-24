@@ -1,0 +1,400 @@
+{
+  "schema": "carryon-benchmark-sources/v1",
+  "upstream": "https://github.com/LIBERO-SAFETY/LIBERO-Safety",
+  "license": "Apache-2.0",
+  "files": [
+    {
+      "path": "libero/libero/__init__.py"
+    },
+    {
+      "path": "libero/libero/assets/scenes/aegis_phase1_libero_floor_base_style_v1.xml"
+    },
+    {
+      "path": "libero/libero/assets/scenes/aegis_phase1_libero_kitchen_tabletop_base_style_v1.xml"
+    },
+    {
+      "path": "libero/libero/assets/scenes/aegis_phase1_libero_study_base_style_v1.xml"
+    },
+    {
+      "path": "libero/libero/assets/scenes/aegis_phase1_libero_tabletop_base_style_v1.xml"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L0/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L0/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L0/put_both_moka_pots_on_the_stove.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L0/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L0/put_the_white_yellow_mug_in_the_microwave_and_close_it.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L1/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L1/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L1/put_both_moka_pots_on_the_stove.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L1/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L1/put_the_white_yellow_mug_in_the_microwave_and_close_it.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L2/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L2/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L2/put_both_moka_pots_on_the_stove.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L2/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance/L2/put_the_white_yellow_mug_in_the_microwave_and_close_it.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L0/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L0/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L0/put_both_moka_pots_on_the_stove.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L0/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L0/put_the_white_yellow_mug_in_the_microwave_and_close_it.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L1/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L1/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L1/put_both_moka_pots_on_the_stove.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L1/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L1/put_the_white_yellow_mug_in_the_microwave_and_close_it.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L2/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L2/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L2/put_both_moka_pots_on_the_stove.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L2/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/obstacle_avoidance_human/L2/put_the_white_yellow_mug_in_the_microwave_and_close_it.bddl"
+    },
+    {
+      "path": "libero/libero/benchmark/__init__.py"
+    },
+    {
+      "path": "libero/libero/benchmark/mu_creation.py"
+    },
+    {
+      "path": "libero/libero/benchmark/task_classification.json"
+    },
+    {
+      "path": "libero/libero/benchmark/vla_safety_task_map.py"
+    },
+    {
+      "path": "libero/libero/envs/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/coffee_table_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/empty_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/kitchen_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/living_room_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/study_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/style.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/table_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/base_object.py"
+    },
+    {
+      "path": "libero/libero/envs/bddl_base_domain.py"
+    },
+    {
+      "path": "libero/libero/envs/bddl_utils.py"
+    },
+    {
+      "path": "libero/libero/envs/env_wrapper.py"
+    },
+    {
+      "path": "libero/libero/envs/object_states/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/object_states/base_object_states.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/articulated_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/custom_objects.json"
+    },
+    {
+      "path": "libero/libero/envs/objects/custom_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/custom_objects_humansaft.json"
+    },
+    {
+      "path": "libero/libero/envs/objects/custom_objects_with_hand.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/extract_obj_names.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/google_scanned_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/hope_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/site_object.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/target_zones.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/turbosquid_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/predicates/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/predicates/base_predicates.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_coffee_table_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_floor_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_kitchen_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_living_room_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_study_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/base_region_sampler.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/object_property_sampler.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/workspace_region_sampler.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/mounted_panda.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/new_init.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/new_register.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/on_the_ground_panda.py"
+    },
+    {
+      "path": "libero/libero/envs/textures.py"
+    },
+    {
+      "path": "libero/libero/envs/utils.py"
+    },
+    {
+      "path": "libero/libero/envs/venv.py"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L0/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L0/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L0/put_both_moka_pots_on_the_stove.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L0/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L0/put_the_white_yellow_mug_in_the_microwave_and_close_it.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L1/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L1/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L1/put_both_moka_pots_on_the_stove.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L1/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L1/put_the_white_yellow_mug_in_the_microwave_and_close_it.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L2/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L2/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L2/put_both_moka_pots_on_the_stove.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L2/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance/L2/put_the_white_yellow_mug_in_the_microwave_and_close_it.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L0/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L0/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L0/put_both_moka_pots_on_the_stove.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L0/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L0/put_the_white_yellow_mug_in_the_microwave_and_close_it.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L1/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L1/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L1/put_both_moka_pots_on_the_stove.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L1/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L1/put_the_white_yellow_mug_in_the_microwave_and_close_it.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L2/pick_up_the_akita_black_bowl_on_the_stove_and_place_it_on_the_plate.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L2/pick_up_the_book_and_place_it_in_the_back_compartment_of_the_caddy.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L2/put_both_moka_pots_on_the_stove.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L2/put_both_the_alphabet_soup_and_the_cream_cheese_box_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/obstacle_avoidance_human/L2/put_the_white_yellow_mug_in_the_microwave_and_close_it.pruned_init"
+    },
+    {
+      "path": "libero/libero/utils/__init__.py"
+    },
+    {
+      "path": "libero/libero/utils/bddl_generation_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/dataset_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/download_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/log_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/mu_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/object_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/task_generation_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/time_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/utils.py"
+    },
+    {
+      "path": "libero/libero/utils/video_utils.py"
+    },
+    {
+      "path": "LICENSE"
+    },
+    {
+      "path": "setup.py"
+    }
+  ],
+  "changes": [
+    "Load optional motion-blur and Gaussian-blur dependencies inside the corruption helpers. Safety environment methods and corruption calculations are unchanged."
+  ]
+}

@@ -1,0 +1,467 @@
+{
+  "source": "https://www.modelscope.cn/datasets/ataier/LIBERO_Recovery_Assets",
+  "files": [
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_003/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_003/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_005/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_005/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_010/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_010/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_017/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_017/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_021/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_021/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_021/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_021/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_031/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_031/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_031/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_031/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_036/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_036/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_036/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_036/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_044/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_044/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_046/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_alphabet_soup_and_place_it_in_the_basket/episode_046/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_000/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_000/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_001/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_001/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_002/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_002/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_003/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_003/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_005/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_005/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_013/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_013/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_017/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_017/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_031/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_031/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_035/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_035/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_047/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_bbq_sauce_and_place_it_in_the_basket/episode_047/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_000/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_000/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_002/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_002/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_003/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_003/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_005/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_005/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_006/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_006/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_011/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_011/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_030/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_030/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_033/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_033/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_048/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_butter_and_place_it_in_the_basket/episode_048/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_001/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_001/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_002/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_002/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_004/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_004/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_007/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_007/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_011/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_011/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_023/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_023/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_023/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_023/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_035/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_035/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_044/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_chocolate_pudding_and_place_it_in_the_basket/episode_044/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_001/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_001/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_044/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_044/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_047/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_047/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_049/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_cream_cheese_and_place_it_in_the_basket/episode_049/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_003/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_003/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_007/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_007/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_008/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_008/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_014/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_014/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_021/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_021/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_033/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_ketchup_and_place_it_in_the_basket/episode_033/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_008/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_008/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_020/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_020/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_044/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_044/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_044/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_milk_and_place_it_in_the_basket/episode_044/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_002/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_002/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_005/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_005/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_032/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_032/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_035/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_035/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_041/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_orange_juice_and_place_it_in_the_basket/episode_041/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_002/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_002/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_004/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_004/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_010/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_010/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_011/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_011/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_022/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_022/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_041/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_salad_dressing_and_place_it_in_the_basket/episode_041/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_000/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_000/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_001/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_001/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_004/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_004/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_006/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_006/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_007/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_007/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_008/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_008/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_010/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_010/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_013/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_013/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_015/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_015/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_021/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_021/step_0240_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_026/step_0260.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_026/step_0260_sim_state.npy"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_029/step_0240.bddl"
+    },
+    {
+      "path": "pick_up_the_tomato_sauce_and_place_it_in_the_basket/episode_029/step_0240_sim_state.npy"
+    }
+  ]
+}

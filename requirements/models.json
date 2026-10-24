@@ -1,0 +1,560 @@
+{
+  "molmo2": {
+    "repo_id": "allenai/Molmo2-8B",
+    "revision": "e28fa28597e5ec5e0cca2201dd8ab33d48bc4a1b",
+    "files": [
+      {
+        "path": "added_tokens.json"
+      },
+      {
+        "path": "chat_template.jinja"
+      },
+      {
+        "path": "config.json"
+      },
+      {
+        "path": "configuration_molmo2.py"
+      },
+      {
+        "path": "generation_config.json"
+      },
+      {
+        "path": "image_processing_molmo2.py"
+      },
+      {
+        "path": "merges.txt"
+      },
+      {
+        "path": "model-00001-of-00008.safetensors"
+      },
+      {
+        "path": "model-00002-of-00008.safetensors"
+      },
+      {
+        "path": "model-00003-of-00008.safetensors"
+      },
+      {
+        "path": "model-00004-of-00008.safetensors"
+      },
+      {
+        "path": "model-00005-of-00008.safetensors"
+      },
+      {
+        "path": "model-00006-of-00008.safetensors"
+      },
+      {
+        "path": "model-00007-of-00008.safetensors"
+      },
+      {
+        "path": "model-00008-of-00008.safetensors"
+      },
+      {
+        "path": "model.safetensors.index.json"
+      },
+      {
+        "path": "modeling_molmo2.py"
+      },
+      {
+        "path": "preprocessor_config.json"
+      },
+      {
+        "path": "processing_molmo2.py"
+      },
+      {
+        "path": "processor_config.json"
+      },
+      {
+        "path": "special_tokens_map.json"
+      },
+      {
+        "path": "tokenizer.json"
+      },
+      {
+        "path": "tokenizer_config.json"
+      },
+      {
+        "path": "video_preprocessor_config.json"
+      },
+      {
+        "path": "video_processing_molmo2.py"
+      },
+      {
+        "path": "vocab.json"
+      }
+    ]
+  },
+  "openpi_tokenizer": {
+    "files": [
+      {
+        "path": "big_vision/paligemma_tokenizer.model",
+        "url": "https://storage.googleapis.com/big_vision/paligemma_tokenizer.model?generation=1711547605575873"
+      }
+    ]
+  },
+  "openvla_oft": {
+    "repo_id": "moojink/openvla-7b-oft-finetuned-libero-spatial-object-goal-10",
+    "revision": "638918f3d1c2e43a39a8a20772bdb8b91835e4b7",
+    "files": [
+      {
+        "path": "action_head--300000_checkpoint.pt"
+      },
+      {
+        "path": "added_tokens.json"
+      },
+      {
+        "path": "config.json"
+      },
+      {
+        "path": "configuration_prismatic.py"
+      },
+      {
+        "path": "dataset_statistics.json"
+      },
+      {
+        "path": "generation_config.json"
+      },
+      {
+        "path": "model-00001-of-00004.safetensors"
+      },
+      {
+        "path": "model-00002-of-00004.safetensors"
+      },
+      {
+        "path": "model-00003-of-00004.safetensors"
+      },
+      {
+        "path": "model-00004-of-00004.safetensors"
+      },
+      {
+        "path": "model.safetensors.index.json"
+      },
+      {
+        "path": "modeling_prismatic.py"
+      },
+      {
+        "path": "preprocessor_config.json"
+      },
+      {
+        "path": "processing_prismatic.py"
+      },
+      {
+        "path": "processor_config.json"
+      },
+      {
+        "path": "proprio_projector--300000_checkpoint.pt"
+      },
+      {
+        "path": "special_tokens_map.json"
+      },
+      {
+        "path": "tokenizer.json"
+      },
+      {
+        "path": "tokenizer.model"
+      },
+      {
+        "path": "tokenizer_config.json"
+      }
+    ]
+  },
+  "pi05": {
+    "source": "gs://openpi-assets/checkpoints/pi05_libero",
+    "files": [
+      {
+        "path": "assets/physical-intelligence/libero/norm_stats.json",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/assets/physical-intelligence/libero/norm_stats.json?generation=1757354341826612"
+      },
+      {
+        "path": "params/_METADATA",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/_METADATA?generation=1757354341847223"
+      },
+      {
+        "path": "params/_sharding",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/_sharding?generation=1757354341829429"
+      },
+      {
+        "path": "params/array_metadatas/process_0",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/array_metadatas/process_0?generation=1757354341837422"
+      },
+      {
+        "path": "params/d/98a77a52a8eb845ae4830eb7fe983979",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/d/98a77a52a8eb845ae4830eb7fe983979?generation=1757354341898666"
+      },
+      {
+        "path": "params/manifest.ocdbt",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/manifest.ocdbt?generation=1757354341840925"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/0eaaecefaa9720d30a32cc56e65fd345",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/0eaaecefaa9720d30a32cc56e65fd345?generation=1757354342041664"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/155391c1cbf93a1be16266de052e5b48",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/155391c1cbf93a1be16266de052e5b48?generation=1757354341926731"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/2b6985f48e9da86f68627a7608c5bc25",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/2b6985f48e9da86f68627a7608c5bc25?generation=1757354341840735"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/475fab3ee8821662585a8cde3eb32e22",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/475fab3ee8821662585a8cde3eb32e22?generation=1757354341938583"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/6c54da5a6f62c20a09c0f3f8c3329e00",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/6c54da5a6f62c20a09c0f3f8c3329e00?generation=1757354341906218"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/896bf93c5cf2e8ddd274a6ea0a2feec0",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/896bf93c5cf2e8ddd274a6ea0a2feec0?generation=1757354341915025"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/bc613ff288a162563e622d01bb60622a",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/bc613ff288a162563e622d01bb60622a?generation=1757354341886074"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/bda87d9791f23df771cd2d15293780cc",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/bda87d9791f23df771cd2d15293780cc?generation=1757354341848154"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/efbb46173882cb35ed41ffe0c2db8a5e",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/d/efbb46173882cb35ed41ffe0c2db8a5e?generation=1757354341921326"
+      },
+      {
+        "path": "params/ocdbt.process_0/manifest.ocdbt",
+        "url": "https://storage.googleapis.com/openpi-assets/checkpoints/pi05_libero/params/ocdbt.process_0/manifest.ocdbt?generation=1757354341843968"
+      }
+    ]
+  },
+  "pi05_sft": {
+    "repo_id": "LIBERO-Safety/pi05_libero_safety",
+    "revision": "e66d84bfec17770384550593e39975f7e21e3463",
+    "files": [
+      {
+        "path": "assets/lerobot/norm_stats.json"
+      },
+      {
+        "path": "params/_METADATA"
+      },
+      {
+        "path": "params/_sharding"
+      },
+      {
+        "path": "params/array_metadatas/process_0"
+      },
+      {
+        "path": "params/d/93c6ce87ccdd8a3069fed87265f90d59"
+      },
+      {
+        "path": "params/manifest.ocdbt"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/0e1c9bb47ff271aa3e0d60ea3f331e96"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/2625d71f1fa173c87ebe31d723aca717"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/277079626db7dc9e2690ded9379460e0"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/4238f803a8e0df8fcc40e1ec5206b39c"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/51ab8f7a0ef62dc666ba17700dc08ad3"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/52ee8b0a19e9cc66c376386e4f6f6e9a"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/5f08718a1a7870b06d48d5813b6f1279"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/7f69c11f0b437f09b923b082db0627ce"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/8803a2c8a2507c6eeabc72d272029ef4"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/899fa4bd2432af968e820f702779388d"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/9dcec7f050b82c64dd148c833bd0697a"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/a5dcd2c23128c09eb6a1e605a283e402"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/a66566ca1b40f95c01b51aa633973b88"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/ac172da90e250d63f2536249edc6a24a"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/b79a6730dc08d56fecc26de296867779"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/cd1c759698663384373ed8281e6840f1"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/dae81fe511c0552c22309f10af90df58"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/dd29b5dcea3a79d140b6b07ad5ff21c9"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/e7073e63c7bf1adf2d54d075a77be61d"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/f70298d666b7af2a390b0ec3545296f1"
+      },
+      {
+        "path": "params/ocdbt.process_0/d/f8200bab85d0d0ad09dd99edb5dc4bf2"
+      },
+      {
+        "path": "params/ocdbt.process_0/manifest.ocdbt"
+      },
+      {
+        "path": "assets/physical-intelligence/libero/norm_stats.json",
+        "source_path": "assets/lerobot/norm_stats.json"
+      }
+    ]
+  },
+  "qwen3_vl_32b": {
+    "repo_id": "Qwen/Qwen3-VL-32B-Instruct",
+    "revision": "0cfaf48183f594c314753d30a4c4974bc75f3ccb",
+    "files": [
+      {
+        "path": "chat_template.json"
+      },
+      {
+        "path": "config.json"
+      },
+      {
+        "path": "generation_config.json"
+      },
+      {
+        "path": "merges.txt"
+      },
+      {
+        "path": "model-00001-of-00014.safetensors"
+      },
+      {
+        "path": "model-00002-of-00014.safetensors"
+      },
+      {
+        "path": "model-00003-of-00014.safetensors"
+      },
+      {
+        "path": "model-00004-of-00014.safetensors"
+      },
+      {
+        "path": "model-00005-of-00014.safetensors"
+      },
+      {
+        "path": "model-00006-of-00014.safetensors"
+      },
+      {
+        "path": "model-00007-of-00014.safetensors"
+      },
+      {
+        "path": "model-00008-of-00014.safetensors"
+      },
+      {
+        "path": "model-00009-of-00014.safetensors"
+      },
+      {
+        "path": "model-00010-of-00014.safetensors"
+      },
+      {
+        "path": "model-00011-of-00014.safetensors"
+      },
+      {
+        "path": "model-00012-of-00014.safetensors"
+      },
+      {
+        "path": "model-00013-of-00014.safetensors"
+      },
+      {
+        "path": "model-00014-of-00014.safetensors"
+      },
+      {
+        "path": "model.safetensors.index.json"
+      },
+      {
+        "path": "preprocessor_config.json"
+      },
+      {
+        "path": "tokenizer.json"
+      },
+      {
+        "path": "tokenizer_config.json"
+      },
+      {
+        "path": "video_preprocessor_config.json"
+      },
+      {
+        "path": "vocab.json"
+      }
+    ]
+  },
+  "qwen3_vl_4b": {
+    "repo_id": "Qwen/Qwen3-VL-4B-Instruct",
+    "revision": "ebb281ec70b05090aa6165b016eac8ec08e71b17",
+    "files": [
+      {
+        "path": "chat_template.json"
+      },
+      {
+        "path": "config.json"
+      },
+      {
+        "path": "generation_config.json"
+      },
+      {
+        "path": "merges.txt"
+      },
+      {
+        "path": "model-00001-of-00002.safetensors"
+      },
+      {
+        "path": "model-00002-of-00002.safetensors"
+      },
+      {
+        "path": "model.safetensors.index.json"
+      },
+      {
+        "path": "preprocessor_config.json"
+      },
+      {
+        "path": "tokenizer.json"
+      },
+      {
+        "path": "tokenizer_config.json"
+      },
+      {
+        "path": "video_preprocessor_config.json"
+      },
+      {
+        "path": "vocab.json"
+      }
+    ]
+  },
+  "qwen_oft": {
+    "repo_id": "StarVLA/Qwen3-VL-OFT-LIBERO-4in1",
+    "revision": "1947454be8c0f4de315f4cbde96b874819a6dab3",
+    "files": [
+      {
+        "path": "checkpoints/steps_50000_pytorch_model.pt"
+      },
+      {
+        "path": "config.yaml"
+      },
+      {
+        "path": "dataset_statistics.json"
+      }
+    ]
+  },
+  "sam3": {
+    "repo_id": "facebook/sam3",
+    "revision": "3c879f39826c281e95690f02c7821c4de09afae7",
+    "files": [
+      {
+        "path": "sam3.pt"
+      }
+    ]
+  },
+  "vlact": {
+    "repo_id": "StarVLA/VLAct_Qwen3PI_Libero_Plus_Finetune",
+    "revision": "2e288218ddcda26b16c5306f49b9e93799926cea",
+    "files": [
+      {
+        "path": "checkpoints/steps_50000_pytorch_model.pt"
+      },
+      {
+        "path": "config.yaml"
+      },
+      {
+        "path": "dataset_statistics.json"
+      }
+    ]
+  },
+  "vlact_base": {
+    "repo_id": "StarVLA/Qwen3-VL-4B-Instruct-Action",
+    "revision": "c41500cf1d287cd79e9f6602f419937b05048bd8",
+    "files": [
+      {
+        "path": "added_custom_token_id_map.json"
+      },
+      {
+        "path": "added_tokens.json"
+      },
+      {
+        "path": "chat_template.jinja"
+      },
+      {
+        "path": "config.json"
+      },
+      {
+        "path": "generation_config.json"
+      },
+      {
+        "path": "merges.txt"
+      },
+      {
+        "path": "model-00001-of-00002.safetensors"
+      },
+      {
+        "path": "model-00002-of-00002.safetensors"
+      },
+      {
+        "path": "model.safetensors.index.json"
+      },
+      {
+        "path": "preprocessor_config.json"
+      },
+      {
+        "path": "special_tokens_map.json"
+      },
+      {
+        "path": "tokenizer.json"
+      },
+      {
+        "path": "tokenizer_config.json"
+      },
+      {
+        "path": "video_preprocessor_config.json"
+      },
+      {
+        "path": "vocab.json"
+      }
+    ]
+  },
+  "vlact_expert": {
+    "repo_id": "Qwen/Qwen3-0.6B",
+    "revision": "c1899de289a04d12100db370d81485cdf75e47ca",
+    "files": [
+      {
+        "path": "config.json"
+      },
+      {
+        "path": "generation_config.json"
+      },
+      {
+        "path": "merges.txt"
+      },
+      {
+        "path": "model.safetensors"
+      },
+      {
+        "path": "tokenizer.json"
+      },
+      {
+        "path": "tokenizer_config.json"
+      },
+      {
+        "path": "vocab.json"
+      }
+    ]
+  }
+}

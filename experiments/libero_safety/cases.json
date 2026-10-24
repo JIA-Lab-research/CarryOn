@@ -1,0 +1,8115 @@
+{
+  "schema": "carryon-cases/v1",
+  "rows": [
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init00",
+      "ordinal": 1,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init01",
+      "ordinal": 2,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init02",
+      "ordinal": 3,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init03",
+      "ordinal": 4,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init04",
+      "ordinal": 5,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init05",
+      "ordinal": 6,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init06",
+      "ordinal": 7,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init07",
+      "ordinal": 8,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init08",
+      "ordinal": 9,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed17_n10_init09",
+      "ordinal": 10,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init00",
+      "ordinal": 11,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init01",
+      "ordinal": 12,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init02",
+      "ordinal": 13,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init03",
+      "ordinal": 14,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init04",
+      "ordinal": 15,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init05",
+      "ordinal": 16,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init06",
+      "ordinal": 17,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init07",
+      "ordinal": 18,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init08",
+      "ordinal": 19,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed27_n10_init09",
+      "ordinal": 20,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init00",
+      "ordinal": 21,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init01",
+      "ordinal": 22,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init02",
+      "ordinal": 23,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init03",
+      "ordinal": 24,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init04",
+      "ordinal": 25,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init05",
+      "ordinal": 26,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init06",
+      "ordinal": 27,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init07",
+      "ordinal": 28,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init08",
+      "ordinal": 29,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t0_seed7_n10_init09",
+      "ordinal": 30,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init00",
+      "ordinal": 31,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init01",
+      "ordinal": 32,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init02",
+      "ordinal": 33,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init03",
+      "ordinal": 34,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init04",
+      "ordinal": 35,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init05",
+      "ordinal": 36,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init06",
+      "ordinal": 37,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init07",
+      "ordinal": 38,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init08",
+      "ordinal": 39,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed17_n10_init09",
+      "ordinal": 40,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init00",
+      "ordinal": 41,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init01",
+      "ordinal": 42,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init02",
+      "ordinal": 43,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init03",
+      "ordinal": 44,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init04",
+      "ordinal": 45,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init05",
+      "ordinal": 46,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init06",
+      "ordinal": 47,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init07",
+      "ordinal": 48,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init08",
+      "ordinal": 49,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed27_n10_init09",
+      "ordinal": 50,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init00",
+      "ordinal": 51,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init01",
+      "ordinal": 52,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init02",
+      "ordinal": 53,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init03",
+      "ordinal": 54,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init04",
+      "ordinal": 55,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init05",
+      "ordinal": 56,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init06",
+      "ordinal": 57,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init07",
+      "ordinal": 58,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init08",
+      "ordinal": 59,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t1_seed7_n10_init09",
+      "ordinal": 60,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init00",
+      "ordinal": 61,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init01",
+      "ordinal": 62,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init02",
+      "ordinal": 63,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init03",
+      "ordinal": 64,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init04",
+      "ordinal": 65,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init05",
+      "ordinal": 66,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init06",
+      "ordinal": 67,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init07",
+      "ordinal": 68,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init08",
+      "ordinal": 69,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed17_n10_init09",
+      "ordinal": 70,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init00",
+      "ordinal": 71,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init01",
+      "ordinal": 72,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init02",
+      "ordinal": 73,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init03",
+      "ordinal": 74,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init04",
+      "ordinal": 75,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init05",
+      "ordinal": 76,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init06",
+      "ordinal": 77,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init07",
+      "ordinal": 78,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init08",
+      "ordinal": 79,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed27_n10_init09",
+      "ordinal": 80,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init00",
+      "ordinal": 81,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init01",
+      "ordinal": 82,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init02",
+      "ordinal": 83,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init03",
+      "ordinal": 84,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init04",
+      "ordinal": 85,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init05",
+      "ordinal": 86,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init06",
+      "ordinal": 87,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init07",
+      "ordinal": 88,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init08",
+      "ordinal": 89,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t2_seed7_n10_init09",
+      "ordinal": 90,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init00",
+      "ordinal": 91,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init01",
+      "ordinal": 92,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init02",
+      "ordinal": 93,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init03",
+      "ordinal": 94,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init04",
+      "ordinal": 95,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init05",
+      "ordinal": 96,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init06",
+      "ordinal": 97,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init07",
+      "ordinal": 98,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init08",
+      "ordinal": 99,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed17_n10_init09",
+      "ordinal": 100,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init00",
+      "ordinal": 101,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init01",
+      "ordinal": 102,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init02",
+      "ordinal": 103,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init03",
+      "ordinal": 104,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init04",
+      "ordinal": 105,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init05",
+      "ordinal": 106,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init06",
+      "ordinal": 107,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init07",
+      "ordinal": 108,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init08",
+      "ordinal": 109,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed27_n10_init09",
+      "ordinal": 110,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init00",
+      "ordinal": 111,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init01",
+      "ordinal": 112,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init02",
+      "ordinal": 113,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init03",
+      "ordinal": 114,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init04",
+      "ordinal": 115,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init05",
+      "ordinal": 116,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init06",
+      "ordinal": 117,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init07",
+      "ordinal": 118,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init08",
+      "ordinal": 119,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t3_seed7_n10_init09",
+      "ordinal": 120,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init00",
+      "ordinal": 121,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init01",
+      "ordinal": 122,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init02",
+      "ordinal": 123,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init03",
+      "ordinal": 124,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init04",
+      "ordinal": 125,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init05",
+      "ordinal": 126,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init06",
+      "ordinal": 127,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init07",
+      "ordinal": 128,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init08",
+      "ordinal": 129,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed17_n10_init09",
+      "ordinal": 130,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init00",
+      "ordinal": 131,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init01",
+      "ordinal": 132,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init02",
+      "ordinal": 133,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init03",
+      "ordinal": 134,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init04",
+      "ordinal": 135,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init05",
+      "ordinal": 136,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init06",
+      "ordinal": 137,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init07",
+      "ordinal": 138,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init08",
+      "ordinal": 139,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed27_n10_init09",
+      "ordinal": 140,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init00",
+      "ordinal": 141,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init01",
+      "ordinal": 142,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init02",
+      "ordinal": 143,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init03",
+      "ordinal": 144,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init04",
+      "ordinal": 145,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init05",
+      "ordinal": 146,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init06",
+      "ordinal": 147,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init07",
+      "ordinal": 148,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init08",
+      "ordinal": 149,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L0t4_seed7_n10_init09",
+      "ordinal": 150,
+      "suite": "obstacle_avoidance_human",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init00",
+      "ordinal": 151,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init01",
+      "ordinal": 152,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init02",
+      "ordinal": 153,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init03",
+      "ordinal": 154,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init04",
+      "ordinal": 155,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init05",
+      "ordinal": 156,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init06",
+      "ordinal": 157,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init07",
+      "ordinal": 158,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init08",
+      "ordinal": 159,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed17_n10_init09",
+      "ordinal": 160,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init00",
+      "ordinal": 161,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init01",
+      "ordinal": 162,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init02",
+      "ordinal": 163,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init03",
+      "ordinal": 164,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init04",
+      "ordinal": 165,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init05",
+      "ordinal": 166,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init06",
+      "ordinal": 167,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init07",
+      "ordinal": 168,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init08",
+      "ordinal": 169,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed27_n10_init09",
+      "ordinal": 170,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init00",
+      "ordinal": 171,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init01",
+      "ordinal": 172,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init02",
+      "ordinal": 173,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init03",
+      "ordinal": 174,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init04",
+      "ordinal": 175,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init05",
+      "ordinal": 176,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init06",
+      "ordinal": 177,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init07",
+      "ordinal": 178,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init08",
+      "ordinal": 179,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t0_seed7_n10_init09",
+      "ordinal": 180,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init00",
+      "ordinal": 181,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init01",
+      "ordinal": 182,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init02",
+      "ordinal": 183,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init03",
+      "ordinal": 184,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init04",
+      "ordinal": 185,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init05",
+      "ordinal": 186,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init06",
+      "ordinal": 187,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init07",
+      "ordinal": 188,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init08",
+      "ordinal": 189,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed17_n10_init09",
+      "ordinal": 190,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init00",
+      "ordinal": 191,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init01",
+      "ordinal": 192,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init02",
+      "ordinal": 193,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init03",
+      "ordinal": 194,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init04",
+      "ordinal": 195,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init05",
+      "ordinal": 196,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init06",
+      "ordinal": 197,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init07",
+      "ordinal": 198,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init08",
+      "ordinal": 199,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed27_n10_init09",
+      "ordinal": 200,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init00",
+      "ordinal": 201,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init01",
+      "ordinal": 202,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init02",
+      "ordinal": 203,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init03",
+      "ordinal": 204,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init04",
+      "ordinal": 205,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init05",
+      "ordinal": 206,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init06",
+      "ordinal": 207,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init07",
+      "ordinal": 208,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init08",
+      "ordinal": 209,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t1_seed7_n10_init09",
+      "ordinal": 210,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init00",
+      "ordinal": 211,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init01",
+      "ordinal": 212,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init02",
+      "ordinal": 213,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init03",
+      "ordinal": 214,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init04",
+      "ordinal": 215,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init05",
+      "ordinal": 216,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init06",
+      "ordinal": 217,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init07",
+      "ordinal": 218,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init08",
+      "ordinal": 219,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed17_n10_init09",
+      "ordinal": 220,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init00",
+      "ordinal": 221,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init01",
+      "ordinal": 222,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init02",
+      "ordinal": 223,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init03",
+      "ordinal": 224,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init04",
+      "ordinal": 225,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init05",
+      "ordinal": 226,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init06",
+      "ordinal": 227,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init07",
+      "ordinal": 228,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init08",
+      "ordinal": 229,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed27_n10_init09",
+      "ordinal": 230,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init00",
+      "ordinal": 231,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init01",
+      "ordinal": 232,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init02",
+      "ordinal": 233,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init03",
+      "ordinal": 234,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init04",
+      "ordinal": 235,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init05",
+      "ordinal": 236,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init06",
+      "ordinal": 237,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init07",
+      "ordinal": 238,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init08",
+      "ordinal": 239,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t2_seed7_n10_init09",
+      "ordinal": 240,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init00",
+      "ordinal": 241,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init01",
+      "ordinal": 242,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init02",
+      "ordinal": 243,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init03",
+      "ordinal": 244,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init04",
+      "ordinal": 245,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init05",
+      "ordinal": 246,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init06",
+      "ordinal": 247,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init07",
+      "ordinal": 248,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init08",
+      "ordinal": 249,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed17_n10_init09",
+      "ordinal": 250,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init00",
+      "ordinal": 251,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init01",
+      "ordinal": 252,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init02",
+      "ordinal": 253,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init03",
+      "ordinal": 254,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init04",
+      "ordinal": 255,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init05",
+      "ordinal": 256,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init06",
+      "ordinal": 257,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init07",
+      "ordinal": 258,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init08",
+      "ordinal": 259,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed27_n10_init09",
+      "ordinal": 260,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init00",
+      "ordinal": 261,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init01",
+      "ordinal": 262,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init02",
+      "ordinal": 263,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init03",
+      "ordinal": 264,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init04",
+      "ordinal": 265,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init05",
+      "ordinal": 266,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init06",
+      "ordinal": 267,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init07",
+      "ordinal": 268,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init08",
+      "ordinal": 269,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t3_seed7_n10_init09",
+      "ordinal": 270,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init00",
+      "ordinal": 271,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init01",
+      "ordinal": 272,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init02",
+      "ordinal": 273,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init03",
+      "ordinal": 274,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init04",
+      "ordinal": 275,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init05",
+      "ordinal": 276,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init06",
+      "ordinal": 277,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init07",
+      "ordinal": 278,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init08",
+      "ordinal": 279,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed17_n10_init09",
+      "ordinal": 280,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init00",
+      "ordinal": 281,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init01",
+      "ordinal": 282,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init02",
+      "ordinal": 283,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init03",
+      "ordinal": 284,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init04",
+      "ordinal": 285,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init05",
+      "ordinal": 286,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init06",
+      "ordinal": 287,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init07",
+      "ordinal": 288,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init08",
+      "ordinal": 289,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed27_n10_init09",
+      "ordinal": 290,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init00",
+      "ordinal": 291,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init01",
+      "ordinal": 292,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init02",
+      "ordinal": 293,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init03",
+      "ordinal": 294,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init04",
+      "ordinal": 295,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init05",
+      "ordinal": 296,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init06",
+      "ordinal": 297,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init07",
+      "ordinal": 298,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init08",
+      "ordinal": 299,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L1t4_seed7_n10_init09",
+      "ordinal": 300,
+      "suite": "obstacle_avoidance_human",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init00",
+      "ordinal": 301,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init01",
+      "ordinal": 302,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init02",
+      "ordinal": 303,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init03",
+      "ordinal": 304,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init04",
+      "ordinal": 305,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init05",
+      "ordinal": 306,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init06",
+      "ordinal": 307,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init07",
+      "ordinal": 308,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init08",
+      "ordinal": 309,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed17_n10_init09",
+      "ordinal": 310,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init00",
+      "ordinal": 311,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init01",
+      "ordinal": 312,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init02",
+      "ordinal": 313,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init03",
+      "ordinal": 314,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init04",
+      "ordinal": 315,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init05",
+      "ordinal": 316,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init06",
+      "ordinal": 317,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init07",
+      "ordinal": 318,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init08",
+      "ordinal": 319,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed27_n10_init09",
+      "ordinal": 320,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init00",
+      "ordinal": 321,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init01",
+      "ordinal": 322,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init02",
+      "ordinal": 323,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init03",
+      "ordinal": 324,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init04",
+      "ordinal": 325,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init05",
+      "ordinal": 326,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init06",
+      "ordinal": 327,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init07",
+      "ordinal": 328,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init08",
+      "ordinal": 329,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t0_seed7_n10_init09",
+      "ordinal": 330,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init00",
+      "ordinal": 331,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init01",
+      "ordinal": 332,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init02",
+      "ordinal": 333,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init03",
+      "ordinal": 334,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init04",
+      "ordinal": 335,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init05",
+      "ordinal": 336,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init06",
+      "ordinal": 337,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init07",
+      "ordinal": 338,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init08",
+      "ordinal": 339,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed17_n10_init09",
+      "ordinal": 340,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init00",
+      "ordinal": 341,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init01",
+      "ordinal": 342,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init02",
+      "ordinal": 343,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init03",
+      "ordinal": 344,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init04",
+      "ordinal": 345,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init05",
+      "ordinal": 346,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init06",
+      "ordinal": 347,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init07",
+      "ordinal": 348,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init08",
+      "ordinal": 349,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed27_n10_init09",
+      "ordinal": 350,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init00",
+      "ordinal": 351,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init01",
+      "ordinal": 352,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init02",
+      "ordinal": 353,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init03",
+      "ordinal": 354,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init04",
+      "ordinal": 355,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init05",
+      "ordinal": 356,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init06",
+      "ordinal": 357,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init07",
+      "ordinal": 358,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init08",
+      "ordinal": 359,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t1_seed7_n10_init09",
+      "ordinal": 360,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init00",
+      "ordinal": 361,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init01",
+      "ordinal": 362,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init02",
+      "ordinal": 363,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init03",
+      "ordinal": 364,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init04",
+      "ordinal": 365,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init05",
+      "ordinal": 366,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init06",
+      "ordinal": 367,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init07",
+      "ordinal": 368,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init08",
+      "ordinal": 369,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed17_n10_init09",
+      "ordinal": 370,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init00",
+      "ordinal": 371,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init01",
+      "ordinal": 372,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init02",
+      "ordinal": 373,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init03",
+      "ordinal": 374,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init04",
+      "ordinal": 375,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init05",
+      "ordinal": 376,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init06",
+      "ordinal": 377,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init07",
+      "ordinal": 378,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init08",
+      "ordinal": 379,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed27_n10_init09",
+      "ordinal": 380,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init00",
+      "ordinal": 381,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init01",
+      "ordinal": 382,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init02",
+      "ordinal": 383,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init03",
+      "ordinal": 384,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init04",
+      "ordinal": 385,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init05",
+      "ordinal": 386,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init06",
+      "ordinal": 387,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init07",
+      "ordinal": 388,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init08",
+      "ordinal": 389,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t2_seed7_n10_init09",
+      "ordinal": 390,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init00",
+      "ordinal": 391,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init01",
+      "ordinal": 392,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init02",
+      "ordinal": 393,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init03",
+      "ordinal": 394,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init04",
+      "ordinal": 395,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init05",
+      "ordinal": 396,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init06",
+      "ordinal": 397,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init07",
+      "ordinal": 398,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init08",
+      "ordinal": 399,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed17_n10_init09",
+      "ordinal": 400,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init00",
+      "ordinal": 401,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init01",
+      "ordinal": 402,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init02",
+      "ordinal": 403,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init03",
+      "ordinal": 404,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init04",
+      "ordinal": 405,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init05",
+      "ordinal": 406,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init06",
+      "ordinal": 407,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init07",
+      "ordinal": 408,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init08",
+      "ordinal": 409,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed27_n10_init09",
+      "ordinal": 410,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init00",
+      "ordinal": 411,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init01",
+      "ordinal": 412,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init02",
+      "ordinal": 413,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init03",
+      "ordinal": 414,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init04",
+      "ordinal": 415,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init05",
+      "ordinal": 416,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init06",
+      "ordinal": 417,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init07",
+      "ordinal": 418,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init08",
+      "ordinal": 419,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t3_seed7_n10_init09",
+      "ordinal": 420,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init00",
+      "ordinal": 421,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init01",
+      "ordinal": 422,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init02",
+      "ordinal": 423,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init03",
+      "ordinal": 424,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init04",
+      "ordinal": 425,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init05",
+      "ordinal": 426,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init06",
+      "ordinal": 427,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init07",
+      "ordinal": 428,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init08",
+      "ordinal": 429,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed17_n10_init09",
+      "ordinal": 430,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init00",
+      "ordinal": 431,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init01",
+      "ordinal": 432,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init02",
+      "ordinal": 433,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init03",
+      "ordinal": 434,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init04",
+      "ordinal": 435,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init05",
+      "ordinal": 436,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init06",
+      "ordinal": 437,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init07",
+      "ordinal": 438,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init08",
+      "ordinal": 439,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed27_n10_init09",
+      "ordinal": 440,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init00",
+      "ordinal": 441,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init01",
+      "ordinal": 442,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init02",
+      "ordinal": 443,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init03",
+      "ordinal": 444,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init04",
+      "ordinal": 445,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init05",
+      "ordinal": 446,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init06",
+      "ordinal": 447,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init07",
+      "ordinal": 448,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init08",
+      "ordinal": 449,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_fshoa_L2t4_seed7_n10_init09",
+      "ordinal": 450,
+      "suite": "obstacle_avoidance_human",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init00",
+      "ordinal": 451,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init01",
+      "ordinal": 452,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init02",
+      "ordinal": 453,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init03",
+      "ordinal": 454,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init04",
+      "ordinal": 455,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init05",
+      "ordinal": 456,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init06",
+      "ordinal": 457,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init07",
+      "ordinal": 458,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init08",
+      "ordinal": 459,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed17_n10_init09",
+      "ordinal": 460,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init00",
+      "ordinal": 461,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init01",
+      "ordinal": 462,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init02",
+      "ordinal": 463,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init03",
+      "ordinal": 464,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init04",
+      "ordinal": 465,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init05",
+      "ordinal": 466,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init06",
+      "ordinal": 467,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init07",
+      "ordinal": 468,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init08",
+      "ordinal": 469,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed27_n10_init09",
+      "ordinal": 470,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init00",
+      "ordinal": 471,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init01",
+      "ordinal": 472,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init02",
+      "ordinal": 473,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init03",
+      "ordinal": 474,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init04",
+      "ordinal": 475,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init05",
+      "ordinal": 476,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init06",
+      "ordinal": 477,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init07",
+      "ordinal": 478,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init08",
+      "ordinal": 479,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t0_seed7_n10_init09",
+      "ordinal": 480,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init00",
+      "ordinal": 481,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init01",
+      "ordinal": 482,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init02",
+      "ordinal": 483,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init03",
+      "ordinal": 484,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init04",
+      "ordinal": 485,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init05",
+      "ordinal": 486,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init06",
+      "ordinal": 487,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init07",
+      "ordinal": 488,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init08",
+      "ordinal": 489,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed17_n10_init09",
+      "ordinal": 490,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init00",
+      "ordinal": 491,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init01",
+      "ordinal": 492,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init02",
+      "ordinal": 493,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init03",
+      "ordinal": 494,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init04",
+      "ordinal": 495,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init05",
+      "ordinal": 496,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init06",
+      "ordinal": 497,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init07",
+      "ordinal": 498,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init08",
+      "ordinal": 499,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed27_n10_init09",
+      "ordinal": 500,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init00",
+      "ordinal": 501,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init01",
+      "ordinal": 502,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init02",
+      "ordinal": 503,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init03",
+      "ordinal": 504,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init04",
+      "ordinal": 505,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init05",
+      "ordinal": 506,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init06",
+      "ordinal": 507,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init07",
+      "ordinal": 508,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init08",
+      "ordinal": 509,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t1_seed7_n10_init09",
+      "ordinal": 510,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init00",
+      "ordinal": 511,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init01",
+      "ordinal": 512,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init02",
+      "ordinal": 513,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init03",
+      "ordinal": 514,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init04",
+      "ordinal": 515,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init05",
+      "ordinal": 516,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init06",
+      "ordinal": 517,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init07",
+      "ordinal": 518,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init08",
+      "ordinal": 519,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed17_n10_init09",
+      "ordinal": 520,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init00",
+      "ordinal": 521,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init01",
+      "ordinal": 522,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init02",
+      "ordinal": 523,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init03",
+      "ordinal": 524,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init04",
+      "ordinal": 525,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init05",
+      "ordinal": 526,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init06",
+      "ordinal": 527,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init07",
+      "ordinal": 528,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init08",
+      "ordinal": 529,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed27_n10_init09",
+      "ordinal": 530,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init00",
+      "ordinal": 531,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init01",
+      "ordinal": 532,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init02",
+      "ordinal": 533,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init03",
+      "ordinal": 534,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init04",
+      "ordinal": 535,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init05",
+      "ordinal": 536,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init06",
+      "ordinal": 537,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init07",
+      "ordinal": 538,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init08",
+      "ordinal": 539,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t2_seed7_n10_init09",
+      "ordinal": 540,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init00",
+      "ordinal": 541,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init01",
+      "ordinal": 542,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init02",
+      "ordinal": 543,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init03",
+      "ordinal": 544,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init04",
+      "ordinal": 545,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init05",
+      "ordinal": 546,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init06",
+      "ordinal": 547,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init07",
+      "ordinal": 548,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init08",
+      "ordinal": 549,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed17_n10_init09",
+      "ordinal": 550,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init00",
+      "ordinal": 551,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init01",
+      "ordinal": 552,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init02",
+      "ordinal": 553,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init03",
+      "ordinal": 554,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init04",
+      "ordinal": 555,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init05",
+      "ordinal": 556,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init06",
+      "ordinal": 557,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init07",
+      "ordinal": 558,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init08",
+      "ordinal": 559,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed27_n10_init09",
+      "ordinal": 560,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init00",
+      "ordinal": 561,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init01",
+      "ordinal": 562,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init02",
+      "ordinal": 563,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init03",
+      "ordinal": 564,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init04",
+      "ordinal": 565,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init05",
+      "ordinal": 566,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init06",
+      "ordinal": 567,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init07",
+      "ordinal": 568,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init08",
+      "ordinal": 569,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t3_seed7_n10_init09",
+      "ordinal": 570,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init00",
+      "ordinal": 571,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init01",
+      "ordinal": 572,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init02",
+      "ordinal": 573,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init03",
+      "ordinal": 574,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init04",
+      "ordinal": 575,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init05",
+      "ordinal": 576,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init06",
+      "ordinal": 577,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init07",
+      "ordinal": 578,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init08",
+      "ordinal": 579,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed17_n10_init09",
+      "ordinal": 580,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init00",
+      "ordinal": 581,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init01",
+      "ordinal": 582,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init02",
+      "ordinal": 583,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init03",
+      "ordinal": 584,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init04",
+      "ordinal": 585,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init05",
+      "ordinal": 586,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init06",
+      "ordinal": 587,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init07",
+      "ordinal": 588,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init08",
+      "ordinal": 589,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed27_n10_init09",
+      "ordinal": 590,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init00",
+      "ordinal": 591,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init01",
+      "ordinal": 592,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init02",
+      "ordinal": 593,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init03",
+      "ordinal": 594,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init04",
+      "ordinal": 595,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init05",
+      "ordinal": 596,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init06",
+      "ordinal": 597,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init07",
+      "ordinal": 598,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init08",
+      "ordinal": 599,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L0t4_seed7_n10_init09",
+      "ordinal": 600,
+      "suite": "obstacle_avoidance",
+      "level": 0,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init00",
+      "ordinal": 601,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init01",
+      "ordinal": 602,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init02",
+      "ordinal": 603,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init03",
+      "ordinal": 604,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init04",
+      "ordinal": 605,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init05",
+      "ordinal": 606,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init06",
+      "ordinal": 607,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init07",
+      "ordinal": 608,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init08",
+      "ordinal": 609,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed17_n10_init09",
+      "ordinal": 610,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init00",
+      "ordinal": 611,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init01",
+      "ordinal": 612,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init02",
+      "ordinal": 613,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init03",
+      "ordinal": 614,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init04",
+      "ordinal": 615,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init05",
+      "ordinal": 616,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init06",
+      "ordinal": 617,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init07",
+      "ordinal": 618,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init08",
+      "ordinal": 619,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed27_n10_init09",
+      "ordinal": 620,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init00",
+      "ordinal": 621,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init01",
+      "ordinal": 622,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init02",
+      "ordinal": 623,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init03",
+      "ordinal": 624,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init04",
+      "ordinal": 625,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init05",
+      "ordinal": 626,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init06",
+      "ordinal": 627,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init07",
+      "ordinal": 628,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init08",
+      "ordinal": 629,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t0_seed7_n10_init09",
+      "ordinal": 630,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init00",
+      "ordinal": 631,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init01",
+      "ordinal": 632,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init02",
+      "ordinal": 633,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init03",
+      "ordinal": 634,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init04",
+      "ordinal": 635,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init05",
+      "ordinal": 636,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init06",
+      "ordinal": 637,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init07",
+      "ordinal": 638,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init08",
+      "ordinal": 639,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed17_n10_init09",
+      "ordinal": 640,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init00",
+      "ordinal": 641,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init01",
+      "ordinal": 642,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init02",
+      "ordinal": 643,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init03",
+      "ordinal": 644,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init04",
+      "ordinal": 645,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init05",
+      "ordinal": 646,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init06",
+      "ordinal": 647,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init07",
+      "ordinal": 648,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init08",
+      "ordinal": 649,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed27_n10_init09",
+      "ordinal": 650,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init00",
+      "ordinal": 651,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init01",
+      "ordinal": 652,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init02",
+      "ordinal": 653,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init03",
+      "ordinal": 654,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init04",
+      "ordinal": 655,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init05",
+      "ordinal": 656,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init06",
+      "ordinal": 657,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init07",
+      "ordinal": 658,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init08",
+      "ordinal": 659,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t1_seed7_n10_init09",
+      "ordinal": 660,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init00",
+      "ordinal": 661,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init01",
+      "ordinal": 662,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init02",
+      "ordinal": 663,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init03",
+      "ordinal": 664,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init04",
+      "ordinal": 665,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init05",
+      "ordinal": 666,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init06",
+      "ordinal": 667,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init07",
+      "ordinal": 668,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init08",
+      "ordinal": 669,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed17_n10_init09",
+      "ordinal": 670,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init00",
+      "ordinal": 671,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init01",
+      "ordinal": 672,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init02",
+      "ordinal": 673,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init03",
+      "ordinal": 674,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init04",
+      "ordinal": 675,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init05",
+      "ordinal": 676,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init06",
+      "ordinal": 677,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init07",
+      "ordinal": 678,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init08",
+      "ordinal": 679,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed27_n10_init09",
+      "ordinal": 680,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init00",
+      "ordinal": 681,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init01",
+      "ordinal": 682,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init02",
+      "ordinal": 683,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init03",
+      "ordinal": 684,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init04",
+      "ordinal": 685,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init05",
+      "ordinal": 686,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init06",
+      "ordinal": 687,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init07",
+      "ordinal": 688,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init08",
+      "ordinal": 689,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t2_seed7_n10_init09",
+      "ordinal": 690,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init00",
+      "ordinal": 691,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init01",
+      "ordinal": 692,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init02",
+      "ordinal": 693,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init03",
+      "ordinal": 694,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init04",
+      "ordinal": 695,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init05",
+      "ordinal": 696,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init06",
+      "ordinal": 697,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init07",
+      "ordinal": 698,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init08",
+      "ordinal": 699,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed17_n10_init09",
+      "ordinal": 700,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init00",
+      "ordinal": 701,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init01",
+      "ordinal": 702,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init02",
+      "ordinal": 703,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init03",
+      "ordinal": 704,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init04",
+      "ordinal": 705,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init05",
+      "ordinal": 706,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init06",
+      "ordinal": 707,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init07",
+      "ordinal": 708,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init08",
+      "ordinal": 709,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed27_n10_init09",
+      "ordinal": 710,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init00",
+      "ordinal": 711,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init01",
+      "ordinal": 712,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init02",
+      "ordinal": 713,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init03",
+      "ordinal": 714,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init04",
+      "ordinal": 715,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init05",
+      "ordinal": 716,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init06",
+      "ordinal": 717,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init07",
+      "ordinal": 718,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init08",
+      "ordinal": 719,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t3_seed7_n10_init09",
+      "ordinal": 720,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init00",
+      "ordinal": 721,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init01",
+      "ordinal": 722,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init02",
+      "ordinal": 723,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init03",
+      "ordinal": 724,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init04",
+      "ordinal": 725,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init05",
+      "ordinal": 726,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init06",
+      "ordinal": 727,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init07",
+      "ordinal": 728,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init08",
+      "ordinal": 729,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed17_n10_init09",
+      "ordinal": 730,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init00",
+      "ordinal": 731,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init01",
+      "ordinal": 732,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init02",
+      "ordinal": 733,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init03",
+      "ordinal": 734,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init04",
+      "ordinal": 735,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init05",
+      "ordinal": 736,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init06",
+      "ordinal": 737,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init07",
+      "ordinal": 738,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init08",
+      "ordinal": 739,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed27_n10_init09",
+      "ordinal": 740,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init00",
+      "ordinal": 741,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init01",
+      "ordinal": 742,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init02",
+      "ordinal": 743,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init03",
+      "ordinal": 744,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init04",
+      "ordinal": 745,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init05",
+      "ordinal": 746,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init06",
+      "ordinal": 747,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init07",
+      "ordinal": 748,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init08",
+      "ordinal": 749,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L1t4_seed7_n10_init09",
+      "ordinal": 750,
+      "suite": "obstacle_avoidance",
+      "level": 1,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init00",
+      "ordinal": 751,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init01",
+      "ordinal": 752,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init02",
+      "ordinal": 753,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init03",
+      "ordinal": 754,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init04",
+      "ordinal": 755,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init05",
+      "ordinal": 756,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init06",
+      "ordinal": 757,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init07",
+      "ordinal": 758,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init08",
+      "ordinal": 759,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed17_n10_init09",
+      "ordinal": 760,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init00",
+      "ordinal": 761,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init01",
+      "ordinal": 762,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init02",
+      "ordinal": 763,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init03",
+      "ordinal": 764,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init04",
+      "ordinal": 765,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init05",
+      "ordinal": 766,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init06",
+      "ordinal": 767,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init07",
+      "ordinal": 768,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init08",
+      "ordinal": 769,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed27_n10_init09",
+      "ordinal": 770,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init00",
+      "ordinal": 771,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init01",
+      "ordinal": 772,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init02",
+      "ordinal": 773,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init03",
+      "ordinal": 774,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init04",
+      "ordinal": 775,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init05",
+      "ordinal": 776,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init06",
+      "ordinal": 777,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init07",
+      "ordinal": 778,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init08",
+      "ordinal": 779,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t0_seed7_n10_init09",
+      "ordinal": 780,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 0,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init00",
+      "ordinal": 781,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init01",
+      "ordinal": 782,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init02",
+      "ordinal": 783,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init03",
+      "ordinal": 784,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init04",
+      "ordinal": 785,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init05",
+      "ordinal": 786,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init06",
+      "ordinal": 787,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init07",
+      "ordinal": 788,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init08",
+      "ordinal": 789,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed17_n10_init09",
+      "ordinal": 790,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init00",
+      "ordinal": 791,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init01",
+      "ordinal": 792,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init02",
+      "ordinal": 793,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init03",
+      "ordinal": 794,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init04",
+      "ordinal": 795,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init05",
+      "ordinal": 796,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init06",
+      "ordinal": 797,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init07",
+      "ordinal": 798,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init08",
+      "ordinal": 799,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed27_n10_init09",
+      "ordinal": 800,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init00",
+      "ordinal": 801,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init01",
+      "ordinal": 802,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init02",
+      "ordinal": 803,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init03",
+      "ordinal": 804,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init04",
+      "ordinal": 805,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init05",
+      "ordinal": 806,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init06",
+      "ordinal": 807,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init07",
+      "ordinal": 808,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init08",
+      "ordinal": 809,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t1_seed7_n10_init09",
+      "ordinal": 810,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 1,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init00",
+      "ordinal": 811,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init01",
+      "ordinal": 812,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init02",
+      "ordinal": 813,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init03",
+      "ordinal": 814,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init04",
+      "ordinal": 815,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init05",
+      "ordinal": 816,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init06",
+      "ordinal": 817,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init07",
+      "ordinal": 818,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init08",
+      "ordinal": 819,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed17_n10_init09",
+      "ordinal": 820,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init00",
+      "ordinal": 821,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init01",
+      "ordinal": 822,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init02",
+      "ordinal": 823,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init03",
+      "ordinal": 824,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init04",
+      "ordinal": 825,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init05",
+      "ordinal": 826,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init06",
+      "ordinal": 827,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init07",
+      "ordinal": 828,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init08",
+      "ordinal": 829,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed27_n10_init09",
+      "ordinal": 830,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init00",
+      "ordinal": 831,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init01",
+      "ordinal": 832,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init02",
+      "ordinal": 833,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init03",
+      "ordinal": 834,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init04",
+      "ordinal": 835,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init05",
+      "ordinal": 836,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init06",
+      "ordinal": 837,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init07",
+      "ordinal": 838,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init08",
+      "ordinal": 839,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t2_seed7_n10_init09",
+      "ordinal": 840,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 2,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init00",
+      "ordinal": 841,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init01",
+      "ordinal": 842,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init02",
+      "ordinal": 843,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init03",
+      "ordinal": 844,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init04",
+      "ordinal": 845,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init05",
+      "ordinal": 846,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init06",
+      "ordinal": 847,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init07",
+      "ordinal": 848,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init08",
+      "ordinal": 849,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed17_n10_init09",
+      "ordinal": 850,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init00",
+      "ordinal": 851,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init01",
+      "ordinal": 852,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init02",
+      "ordinal": 853,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init03",
+      "ordinal": 854,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init04",
+      "ordinal": 855,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init05",
+      "ordinal": 856,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init06",
+      "ordinal": 857,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init07",
+      "ordinal": 858,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init08",
+      "ordinal": 859,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed27_n10_init09",
+      "ordinal": 860,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init00",
+      "ordinal": 861,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init01",
+      "ordinal": 862,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init02",
+      "ordinal": 863,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init03",
+      "ordinal": 864,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init04",
+      "ordinal": 865,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init05",
+      "ordinal": 866,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init06",
+      "ordinal": 867,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init07",
+      "ordinal": 868,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init08",
+      "ordinal": 869,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t3_seed7_n10_init09",
+      "ordinal": 870,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 3,
+      "seed": 7,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init00",
+      "ordinal": 871,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init01",
+      "ordinal": 872,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init02",
+      "ordinal": 873,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init03",
+      "ordinal": 874,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init04",
+      "ordinal": 875,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init05",
+      "ordinal": 876,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init06",
+      "ordinal": 877,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init07",
+      "ordinal": 878,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init08",
+      "ordinal": 879,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed17_n10_init09",
+      "ordinal": 880,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 17,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init00",
+      "ordinal": 881,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init01",
+      "ordinal": 882,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init02",
+      "ordinal": 883,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init03",
+      "ordinal": 884,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init04",
+      "ordinal": 885,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init05",
+      "ordinal": 886,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init06",
+      "ordinal": 887,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init07",
+      "ordinal": 888,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init08",
+      "ordinal": 889,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed27_n10_init09",
+      "ordinal": 890,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 27,
+      "init_index": 9
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init00",
+      "ordinal": 891,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 0
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init01",
+      "ordinal": 892,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 1
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init02",
+      "ordinal": 893,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 2
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init03",
+      "ordinal": 894,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 3
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init04",
+      "ordinal": 895,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 4
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init05",
+      "ordinal": 896,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 5
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init06",
+      "ordinal": 897,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 6
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init07",
+      "ordinal": 898,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 7
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init08",
+      "ordinal": 899,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 8
+    },
+    {
+      "id": "vanshield_tsa_L2t4_seed7_n10_init09",
+      "ordinal": 900,
+      "suite": "obstacle_avoidance",
+      "level": 2,
+      "task_index": 4,
+      "seed": 7,
+      "init_index": 9
+    }
+  ],
+  "smoke_ids": [
+    "vanshield_fshoa_L0t0_seed17_n10_init00",
+    "vanshield_fshoa_L1t0_seed17_n10_init00",
+    "vanshield_fshoa_L2t0_seed17_n10_init00",
+    "vanshield_tsa_L0t0_seed17_n10_init00",
+    "vanshield_tsa_L1t0_seed17_n10_init00",
+    "vanshield_tsa_L2t0_seed17_n10_init00"
+  ],
+  "control_steps": 900,
+  "settle_steps": 10
+}

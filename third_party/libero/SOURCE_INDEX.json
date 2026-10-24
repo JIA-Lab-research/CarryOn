@@ -1,0 +1,270 @@
+{
+  "source": "https://github.com/Lifelong-Robot-Learning/LIBERO",
+  "source_revision": "8f1084e3132a39270c3a13ebe37270a43ece2a01",
+  "files": [
+    {
+      "path": "LICENSE"
+    },
+    {
+      "path": "libero/libero/__init__.py"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_alphabet_soup_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_bbq_sauce_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_butter_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_chocolate_pudding_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_cream_cheese_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_ketchup_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_milk_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_orange_juice_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_salad_dressing_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/pick_up_the_tomato_sauce_and_place_it_in_the_basket.bddl"
+    },
+    {
+      "path": "libero/libero/bddl_files/libero_object/tasks_info.txt"
+    },
+    {
+      "path": "libero/libero/benchmark/__init__.py"
+    },
+    {
+      "path": "libero/libero/benchmark/libero_suite_task_map.py"
+    },
+    {
+      "path": "libero/libero/benchmark/mu_creation.py"
+    },
+    {
+      "path": "libero/libero/envs/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/coffee_table_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/empty_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/kitchen_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/living_room_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/study_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/style.py"
+    },
+    {
+      "path": "libero/libero/envs/arenas/table_arena.py"
+    },
+    {
+      "path": "libero/libero/envs/base_object.py"
+    },
+    {
+      "path": "libero/libero/envs/bddl_base_domain.py"
+    },
+    {
+      "path": "libero/libero/envs/bddl_utils.py"
+    },
+    {
+      "path": "libero/libero/envs/env_wrapper.py"
+    },
+    {
+      "path": "libero/libero/envs/object_states/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/object_states/base_object_states.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/articulated_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/google_scanned_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/hope_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/site_object.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/target_zones.py"
+    },
+    {
+      "path": "libero/libero/envs/objects/turbosquid_objects.py"
+    },
+    {
+      "path": "libero/libero/envs/predicates/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/predicates/base_predicates.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_coffee_table_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_floor_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_kitchen_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_living_room_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_study_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/problems/libero_tabletop_manipulation.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/base_region_sampler.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/object_property_sampler.py"
+    },
+    {
+      "path": "libero/libero/envs/regions/workspace_region_sampler.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/__init__.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/mounted_panda.py"
+    },
+    {
+      "path": "libero/libero/envs/robots/on_the_ground_panda.py"
+    },
+    {
+      "path": "libero/libero/envs/textures.py"
+    },
+    {
+      "path": "libero/libero/envs/utils.py"
+    },
+    {
+      "path": "libero/libero/envs/venv.py"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_alphabet_soup_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_alphabet_soup_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_bbq_sauce_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_bbq_sauce_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_butter_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_butter_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_chocolate_pudding_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_chocolate_pudding_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_cream_cheese_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_cream_cheese_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_ketchup_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_ketchup_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_milk_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_milk_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_orange_juice_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_orange_juice_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_salad_dressing_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_salad_dressing_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_tomato_sauce_and_place_it_in_the_basket.init"
+    },
+    {
+      "path": "libero/libero/init_files/libero_object/pick_up_the_tomato_sauce_and_place_it_in_the_basket.pruned_init"
+    },
+    {
+      "path": "libero/libero/utils/__init__.py"
+    },
+    {
+      "path": "libero/libero/utils/bddl_generation_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/dataset_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/download_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/log_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/mu_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/object_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/task_generation_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/time_utils.py"
+    },
+    {
+      "path": "libero/libero/utils/utils.py"
+    },
+    {
+      "path": "libero/libero/utils/video_utils.py"
+    }
+  ]
+}

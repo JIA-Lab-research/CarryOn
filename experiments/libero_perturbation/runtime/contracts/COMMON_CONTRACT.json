@@ -1,0 +1,638 @@
+{
+  "common_geometry": {
+    "P_read_count": 1,
+    "candidate_order": [
+      "short",
+      "long"
+    ],
+    "depth_retry": false,
+    "generator": "common_grasp_geometry/v2",
+    "geometry_variant": "NEW",
+    "long_trigger": [
+      "verified_jam_exit",
+      "fresh_measured_empty",
+      "unstable_then_fresh_measured_empty"
+    ],
+    "max_recovery_invocations": 1,
+    "module_files": [
+      {
+        "name": "common_grasp_geometry.py",
+        "path": "${file:bindings/common_grasp_geometry.py}"
+      },
+      {
+        "name": "common_perception_adapter.py",
+        "path": "${file:bindings/common_perception_adapter.py}"
+      },
+      {
+        "name": "grasp_family.py",
+        "path": "${file:bindings/grasp_family.py}"
+      },
+      {
+        "name": "common_direction_retry.py",
+        "path": "${file:bindings/common_direction_retry.py}"
+      },
+      {
+        "name": "common_graspgen_binding.py",
+        "path": "${file:bindings/common_graspgen_binding.py}"
+      },
+      {
+        "name": "backend_selection_origin.py",
+        "path": "${file:bindings/backend_selection_origin.py}"
+      },
+      {
+        "name": "recovery_method.py",
+        "path": "${file:bindings/recovery_method.py}"
+      },
+      {
+        "name": "attempt_retention.py",
+        "path": "${file:bindings/attempt_retention.py}"
+      },
+      {
+        "name": "policy_binding.py",
+        "path": "${file:bindings/policy_binding.py}"
+      },
+      {
+        "name": "memory_loading.py",
+        "path": "${file:bindings/memory_loading.py}"
+      },
+      {
+        "name": "execution_binding.py",
+        "path": "${file:worker/execution_binding.py}"
+      },
+      {
+        "name": "geometry_contract.py",
+        "path": "${file:bindings/geometry_contract.py}"
+      },
+      {
+        "name": "gripper_width.py",
+        "path": "${file:bindings/gripper_width.py}"
+      },
+      {
+        "name": "preplace_width.py",
+        "path": "${file:bindings/preplace_width.py}"
+      },
+      {
+        "name": "width_sample_semantics.py",
+        "path": "${file:bindings/width_sample_semantics.py}"
+      },
+      {
+        "name": "common_cloud_continuity.py",
+        "path": "${file:bindings/common_cloud_continuity.py}"
+      }
+    ],
+    "per_direction_planning_candidates": 1,
+    "producer_requirement": "state_source preserved; no_physics reads cannot create dynamic holding PASS",
+    "required_wrapper_order": [
+      "original_policy_guard",
+      "common_family_and_retry",
+      "v4_measurement",
+      "v5_holding",
+      "attempt_retention"
+    ],
+    "same_xyz_z": true,
+    "schema": "common-native-two-direction/v1",
+    "terminal_empty_via_final_v5": true
+  },
+  "coordinate": {
+    "frame": "planner world",
+    "reference": "contact_TCP",
+    "unit": "m"
+  },
+  "failure_handback": [
+    "failure_terminal_destination",
+    "failure_handback_open_gripper",
+    "failure_handback_ack"
+  ],
+  "geometry_validator_required": false,
+  "initial_store_sha256": {
+    "P": "${memory:P_sha256}",
+    "S": "${memory:S_sha256}"
+  },
+  "max_abs_delta_m": 0.2,
+  "max_z_m": 0.25,
+  "min_z_m": 0.0,
+  "physical_grasps": 2,
+  "planning_candidates": 2,
+  "policy_path": "${file:worker/recovery_policy.json}",
+  "references": {
+    "alphabet soup": {
+      "path": "${file:references/alphabet_soup.png}",
+      "sha256": "4338ce739e6426ed92045fc0764e0d6c52a824fcfb22bd248ae5cc79579efb79"
+    },
+    "bbq sauce": {
+      "path": "${file:references/bbq_sauce.png}",
+      "sha256": "a13bc9977ca553c58a8786b230895815b3246b9ab4c436061d7cc8484e1e13e6"
+    },
+    "butter": {
+      "path": "${file:references/butter.png}",
+      "sha256": "3cdc2f3ddd182c769113fe0efa670a06ee94a10d6f391a88bf519deef3baceef"
+    },
+    "chocolate pudding": {
+      "path": "${file:references/chocolate_pudding.png}",
+      "sha256": "58b1b0039265f76061b2608b34bd003609ec5960c98a8070ae7a516180883425"
+    },
+    "cream cheese": {
+      "path": "${file:references/cream_cheese.png}",
+      "sha256": "c40cc5a19c0bbd4e23e6d5173256bfa42228134db05191429d78cad6c72266f7"
+    },
+    "ketchup": {
+      "path": "${file:references/ketchup.png}",
+      "sha256": "57526286c7d8c82966f600bd0c66024542286c6ffec7981c393e40171c52178e"
+    },
+    "milk": {
+      "path": "${file:references/milk.png}",
+      "sha256": "840ffcddbb2341a1f704323e9618bd5bdf39d112738f3dee9446777ec083e9af"
+    },
+    "orange juice": {
+      "path": "${file:references/orange_juice.png}",
+      "sha256": "2348df5a0faf6c7498a593cc3b8ce0fa5bd35c2627e9c5bd882c59f2879a29cf"
+    },
+    "salad dressing": {
+      "path": "${file:references/salad_dressing.png}",
+      "sha256": "e934f1f4fed555ef2542118d4b795e0e53ed29e423a7c1710d5d27159390784e"
+    },
+    "tomato sauce": {
+      "path": "${file:references/tomato_sauce.png}",
+      "sha256": "28c49a548a73325aef51e2314c6899a6f3e308042c58c2e0adc5f234d6ef0dd1"
+    }
+  },
+  "registry_keys": [
+    "alphabet soup",
+    "bbq sauce",
+    "butter",
+    "chocolate pudding",
+    "cream cheese",
+    "ketchup",
+    "milk",
+    "orange juice",
+    "salad dressing",
+    "tomato sauce"
+  ],
+  "registry_sha256": "${sha256:references/FROZEN_REFERENCE_REGISTRY.json}",
+  "schema": "carryon-object-batch-structural/v1",
+  "source_bindings": [
+    {
+      "path": "${file:bindings/candidate_selection_prompt.txt}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/budget24.py}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/temporal_detector.py}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/event_gate.py}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/event_parser.py}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/qualification_history.py}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/temporal_supervisor.py}"
+    },
+    {
+      "path": "${file:bindings/TEMPORAL/temporal_install.py}"
+    },
+    {
+      "path": "${file:bindings/attempt_retention.py}"
+    },
+    {
+      "path": "${file:bindings/backend_selection_origin.py}"
+    },
+    {
+      "path": "${file:bindings/memory_loading.py}"
+    },
+    {
+      "path": "${file:bindings/collection_binding.py}"
+    },
+    {
+      "path": "${file:bindings/common_cloud_continuity.py}"
+    },
+    {
+      "path": "${file:bindings/common_direction_retry.py}"
+    },
+    {
+      "path": "${file:bindings/geometry_contract.py}"
+    },
+    {
+      "path": "${file:bindings/common_grasp_geometry.py}"
+    },
+    {
+      "path": "${file:bindings/common_graspgen_binding.py}"
+    },
+    {
+      "path": "${file:bindings/grasp_family.py}"
+    },
+    {
+      "path": "${file:bindings/common_perception_adapter.py}"
+    },
+    {
+      "path": "${file:bindings/completion_http.py}"
+    },
+    {
+      "path": "${file:bindings/completion_manager.py}"
+    },
+    {
+      "path": "${file:bindings/critical_frame_capture.py}"
+    },
+    {
+      "path": "${file:bindings/policy_binding.py}"
+    },
+    {
+      "path": "${file:bindings/failure_evidence_attribution.py}"
+    },
+    {
+      "path": "${file:bindings/final_failure_backend.py}"
+    },
+    {
+      "path": "${file:bindings/geometry_panda_axes.py}"
+    },
+    {
+      "path": "${file:bindings/recovery_evidence.py}"
+    },
+    {
+      "path": "${file:bindings/gripper_width.py}"
+    },
+    {
+      "path": "${file:bindings/preplace_width.py}"
+    },
+    {
+      "path": "${file:bindings/orchestrator_handback_standoff.py}"
+    },
+    {
+      "path": "${file:bindings/original_pose_execution.py}"
+    },
+    {
+      "path": "${file:bindings/parameter_attempt_evidence.py}"
+    },
+    {
+      "path": "${file:bindings/parameter_evidence_binding.py}"
+    },
+    {
+      "path": "${file:bindings/parameter_evidence.py}"
+    },
+    {
+      "path": "${file:bindings/parameter_rationale_preference.py}"
+    },
+    {
+      "path": "${file:bindings/parameter_revision.py}"
+    },
+    {
+      "path": "${file:bindings/parameter_visual_binding.py}"
+    },
+    {
+      "path": "${file:bindings/policy_selection_origin.py}"
+    },
+    {
+      "path": "${file:bindings/mask_grasp_binding.py}"
+    },
+    {
+      "path": "${file:bindings/candidate_presentation.py}"
+    },
+    {
+      "path": "${file:bindings/candidate_selection.py}"
+    },
+    {
+      "path": "${file:bindings/candidate_contract.py}"
+    },
+    {
+      "path": "${file:bindings/semantic_recovery.py}"
+    },
+    {
+      "path": "${file:bindings/selection_origin_binding.py}"
+    },
+    {
+      "path": "${file:bindings/reference_selector.py}"
+    },
+    {
+      "path": "${file:bindings/recovery_method.py}"
+    },
+    {
+      "path": "${file:bindings/temporal_common_binding.py}"
+    },
+    {
+      "path": "${file:bindings/width_sample_semantics.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/agent/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/agent/commands.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/agent/context.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/agent/loop.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/agent/notifier.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/config.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/endpoints/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/endpoints/loader.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/endpoints/model.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/endpoints/registry.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/errors.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/executor/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/executor/dag.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/executor/executor.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/executor/reactor.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/channels/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/channels/base.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/channels/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/channels/webhook.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/intake.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/manager.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/jobs/record.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/checkpoint.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/client.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/config.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/routing.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/success_confirmation.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/judge/supervisor.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/locations.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/logging_util.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/main.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/markdown_store.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/scene.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/short_term.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/user.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/memory/user_summarizer.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/planner/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/planner/client.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/planner/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/planner/planner.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/planner/schema.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/providers/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/providers/images.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/providers/openrouter.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/providers/scene_capture.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/arbiter.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/assertions.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/backend.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/bridge.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/catalog.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/curobo_runner.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/curobo_subprocess.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/gello_client.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/geometry.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/graspnet_pytorch_runner.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/integration.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/jam_z_reflection.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/library.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/molmo_runner.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/orchestrator.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/policy.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/positionfix_memory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/preplace.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/primitives.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/recorder.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/reflection.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/reflector_live.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/sam3_runner.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/schema.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/semantic_memory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/semantic_reflection.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/strategy.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/transport_clearance.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/recovery/visual_object_memory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/base.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/invoker.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/scene_describer.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/search_container.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/search_locations.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/update_scene.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/wait.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/skills/web_query.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/transports/__init__.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/transports/base.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/transports/factory.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/transports/http.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/transports/local.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/transports/mock.py}"
+    },
+    {
+      "path": "${file:runtime/carryon/types.py}"
+    },
+    {
+      "path": "${file:tools/recovery/recovery_entrypoint.py}"
+    },
+    {
+      "path": "${file:worker/selector_prompt.txt}"
+    },
+    {
+      "path": "${file:worker/execution_binding.py}"
+    },
+    {
+      "path": "${file:worker/memory_binding.py}"
+    },
+    {
+      "path": "${file:worker/keyframe_binding.py}"
+    },
+    {
+      "path": "${file:worker/protocol_binding.py}"
+    },
+    {
+      "path": "${file:worker/selector_prompt_binding.py}"
+    }
+  ],
+  "template": "REGROUND_V7_ALL_CANDIDATE_V1"
+}

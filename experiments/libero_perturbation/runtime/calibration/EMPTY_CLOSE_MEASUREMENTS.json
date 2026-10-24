@@ -1,0 +1,188 @@
+{
+  "LIBERO_task_episodes": 0,
+  "actual_MuJoCo_measurement": true,
+  "closed_command_m": 0.02,
+  "kind": "empty_close_no_object_measurement",
+  "open_samples": [
+    {
+      "producer_ts": 1788886501.7075493,
+      "w_meas": 0.07995618617616793
+    },
+    {
+      "producer_ts": 1788886501.7691257,
+      "w_meas": 0.07995806538218549
+    },
+    {
+      "producer_ts": 1788886501.8306866,
+      "w_meas": 0.07995986398772743
+    },
+    {
+      "producer_ts": 1788886501.8922596,
+      "w_meas": 0.0799615854498048
+    },
+    {
+      "producer_ts": 1788886501.9538555,
+      "w_meas": 0.07996323307715494
+    },
+    {
+      "producer_ts": 1788886502.0154238,
+      "w_meas": 0.0799648100366013
+    },
+    {
+      "producer_ts": 1788886502.0770316,
+      "w_meas": 0.07996631935913998
+    },
+    {
+      "producer_ts": 1788886502.1386395,
+      "w_meas": 0.07996776394576549
+    },
+    {
+      "producer_ts": 1788886502.200199,
+      "w_meas": 0.07996914657304682
+    },
+    {
+      "producer_ts": 1788886502.2617798,
+      "w_meas": 0.0799704698984639
+    },
+    {
+      "producer_ts": 1788886502.3233688,
+      "w_meas": 0.07997173646551547
+    },
+    {
+      "producer_ts": 1788886502.3849258,
+      "w_meas": 0.0799729487086079
+    },
+    {
+      "producer_ts": 1788886502.4464478,
+      "w_meas": 0.07997410895773413
+    },
+    {
+      "producer_ts": 1788886502.5080657,
+      "w_meas": 0.0799752194429521
+    },
+    {
+      "producer_ts": 1788886502.5696561,
+      "w_meas": 0.07997628229867096
+    },
+    {
+      "producer_ts": 1788886502.631259,
+      "w_meas": 0.07997729956775357
+    },
+    {
+      "producer_ts": 1788886502.6931863,
+      "w_meas": 0.079978273205443
+    },
+    {
+      "producer_ts": 1788886502.7547765,
+      "w_meas": 0.07997920508312056
+    },
+    {
+      "producer_ts": 1788886502.816353,
+      "w_meas": 0.07998009699190273
+    },
+    {
+      "producer_ts": 1788886502.8779407,
+      "w_meas": 0.07998095064608365
+    }
+  ],
+  "plateau_rule": "fixed indices 100..119 of one 120-step phase, not selected by widths",
+  "robot_controller_identity": {
+    "closed_command_m": 0.02,
+    "control_delta": true,
+    "control_freq_hz": 20,
+    "controller_class": "JointPositionController",
+    "controller_type": "JOINT_POSITION",
+    "gripper_class": "PandaGripper",
+    "gripper_class_sha256": "a3760a8fc4599fa6f79914304b82466f3c1bda1a945943ca693bb57f00dc59eb",
+    "gripper_xml_sha256": "d9d68123909d6910488310d0fae4e358ed4ac831c6d0957f3e30893a5412baac",
+    "physics_timestep_s": 0.002,
+    "recovery_step_rad": 0.1,
+    "robot_class": "Panda",
+    "robot_class_sha256": "cedaeef03d4c01b6a76a56838f9cf8f68b34f85bac823cb2c76543492553c736",
+    "width_producer": "SimWorld._update_snapshots: abs(robot0_gripper_qpos[0]-robot0_gripper_qpos[1])"
+  },
+  "samples": [
+    {
+      "producer_ts": 1788886509.1574702,
+      "w_meas": 0.0009997648232087132
+    },
+    {
+      "producer_ts": 1788886509.2194574,
+      "w_meas": 0.0009997866498500623
+    },
+    {
+      "producer_ts": 1788886509.2814918,
+      "w_meas": 0.000999783508393191
+    },
+    {
+      "producer_ts": 1788886509.3434792,
+      "w_meas": 0.0009997693654275597
+    },
+    {
+      "producer_ts": 1788886509.405478,
+      "w_meas": 0.000999771515565477
+    },
+    {
+      "producer_ts": 1788886509.4674838,
+      "w_meas": 0.000999780534405006
+    },
+    {
+      "producer_ts": 1788886509.5294766,
+      "w_meas": 0.0009997430300639244
+    },
+    {
+      "producer_ts": 1788886509.5915065,
+      "w_meas": 0.000999765745325928
+    },
+    {
+      "producer_ts": 1788886509.6535046,
+      "w_meas": 0.0009997704757232309
+    },
+    {
+      "producer_ts": 1788886509.7154853,
+      "w_meas": 0.0009997632675480018
+    },
+    {
+      "producer_ts": 1788886509.777464,
+      "w_meas": 0.0009997703464171737
+    },
+    {
+      "producer_ts": 1788886509.8394268,
+      "w_meas": 0.00099978022110374
+    },
+    {
+      "producer_ts": 1788886509.9014184,
+      "w_meas": 0.0009997749916902498
+    },
+    {
+      "producer_ts": 1788886509.9634178,
+      "w_meas": 0.000999769099418592
+    },
+    {
+      "producer_ts": 1788886510.0254154,
+      "w_meas": 0.0009997865865793306
+    },
+    {
+      "producer_ts": 1788886510.0873852,
+      "w_meas": 0.000999798370736732
+    },
+    {
+      "producer_ts": 1788886510.149398,
+      "w_meas": 0.0009997820508197911
+    },
+    {
+      "producer_ts": 1788886510.2113974,
+      "w_meas": 0.0009997791519858873
+    },
+    {
+      "producer_ts": 1788886510.2733564,
+      "w_meas": 0.0009997757691372982
+    },
+    {
+      "producer_ts": 1788886510.3353333,
+      "w_meas": 0.0009997750471101396
+    }
+  ],
+  "synthetic_CPU_fixture": false,
+  "used_GT_or_outcomes": false
+}

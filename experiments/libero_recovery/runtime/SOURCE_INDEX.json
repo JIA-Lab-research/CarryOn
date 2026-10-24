@@ -1,0 +1,533 @@
+{
+  "schema": "carryon-recovery-runtime-sources/v1",
+  "suite": "libero_recovery",
+  "files": [
+    {
+      "path": "bindings/REAL_WIDTH_CONTRACT.json"
+    },
+    {
+      "path": "bindings/candidate_selection_prompt.txt"
+    },
+    {
+      "path": "bindings/semantic_memory_config.json"
+    },
+    {
+      "path": "bindings/attempt_retention.py"
+    },
+    {
+      "path": "bindings/backend_selection_origin.py"
+    },
+    {
+      "path": "bindings/memory_loading.py"
+    },
+    {
+      "path": "bindings/benchmark_start_recovery.py"
+    },
+    {
+      "path": "bindings/collection_binding.py"
+    },
+    {
+      "path": "bindings/pose_cloud_continuity.py"
+    },
+    {
+      "path": "bindings/common_direction_retry.py"
+    },
+    {
+      "path": "bindings/geometry_contract.py"
+    },
+    {
+      "path": "bindings/common_grasp_geometry.py"
+    },
+    {
+      "path": "bindings/common_graspgen_binding.py"
+    },
+    {
+      "path": "bindings/pose_grasp_family.py"
+    },
+    {
+      "path": "bindings/common_perception_adapter.py"
+    },
+    {
+      "path": "bindings/completion_http.py"
+    },
+    {
+      "path": "bindings/completion_manager.py"
+    },
+    {
+      "path": "bindings/critical_frame_capture.py"
+    },
+    {
+      "path": "bindings/policy_binding.py"
+    },
+    {
+      "path": "bindings/failure_evidence_attribution.py"
+    },
+    {
+      "path": "bindings/final_failure_backend.py"
+    },
+    {
+      "path": "bindings/geometry_panda_axes.py"
+    },
+    {
+      "path": "bindings/memory_reader.py"
+    },
+    {
+      "path": "bindings/recovery_evidence.py"
+    },
+    {
+      "path": "bindings/gripper_width.py"
+    },
+    {
+      "path": "bindings/preplace_width.py"
+    },
+    {
+      "path": "bindings/orchestrator_handback_standoff.py"
+    },
+    {
+      "path": "bindings/original_pose_execution.py"
+    },
+    {
+      "path": "bindings/parameter_attempt_evidence.py"
+    },
+    {
+      "path": "bindings/parameter_evidence_binding.py"
+    },
+    {
+      "path": "bindings/parameter_evidence.py"
+    },
+    {
+      "path": "bindings/parameter_rationale_preference.py"
+    },
+    {
+      "path": "bindings/parameter_revision.py"
+    },
+    {
+      "path": "bindings/parameter_visual_binding.py"
+    },
+    {
+      "path": "bindings/policy_selection_origin.py"
+    },
+    {
+      "path": "bindings/pose_context_binding.py"
+    },
+    {
+      "path": "bindings/pose_memory.py"
+    },
+    {
+      "path": "bindings/pose_resolution_adapter.py"
+    },
+    {
+      "path": "bindings/pose_transport.py"
+    },
+    {
+      "path": "bindings/pose_worker_runtime.py"
+    },
+    {
+      "path": "bindings/mask_grasp_binding.py"
+    },
+    {
+      "path": "bindings/candidate_presentation.py"
+    },
+    {
+      "path": "bindings/candidate_selection.py"
+    },
+    {
+      "path": "bindings/candidate_contract.py"
+    },
+    {
+      "path": "bindings/semantic_recovery.py"
+    },
+    {
+      "path": "bindings/selection_origin_binding.py"
+    },
+    {
+      "path": "bindings/reference_selector.py"
+    },
+    {
+      "path": "bindings/recovery_method.py"
+    },
+    {
+      "path": "bindings/width_sample_semantics.py"
+    },
+    {
+      "path": "calibration/EMPTY_CLOSE_MEASUREMENTS.json"
+    },
+    {
+      "path": "contracts/COMMON_CONTRACT.json"
+    },
+    {
+      "path": "references/FROZEN_REFERENCE_REGISTRY.json",
+      "source": "experiment"
+    },
+    {
+      "path": "references/alphabet_soup.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/bbq_sauce.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/butter.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/chocolate_pudding.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/cream_cheese.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/ketchup.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/milk.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/orange_juice.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/salad_dressing.png",
+      "source": "experiment"
+    },
+    {
+      "path": "references/tomato_sauce.png",
+      "source": "experiment"
+    },
+    {
+      "path": "runtime/carryon/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/agent/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/agent/commands.py"
+    },
+    {
+      "path": "runtime/carryon/agent/context.py"
+    },
+    {
+      "path": "runtime/carryon/agent/loop.py"
+    },
+    {
+      "path": "runtime/carryon/agent/notifier.py"
+    },
+    {
+      "path": "runtime/carryon/config.py"
+    },
+    {
+      "path": "runtime/carryon/endpoints/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/endpoints/loader.py"
+    },
+    {
+      "path": "runtime/carryon/endpoints/model.py"
+    },
+    {
+      "path": "runtime/carryon/endpoints/registry.py"
+    },
+    {
+      "path": "runtime/carryon/errors.py"
+    },
+    {
+      "path": "runtime/carryon/executor/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/executor/dag.py"
+    },
+    {
+      "path": "runtime/carryon/executor/executor.py"
+    },
+    {
+      "path": "runtime/carryon/executor/reactor.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/channels/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/channels/base.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/channels/factory.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/channels/webhook.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/intake.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/manager.py"
+    },
+    {
+      "path": "runtime/carryon/jobs/record.py"
+    },
+    {
+      "path": "runtime/carryon/judge/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/judge/checkpoint.py"
+    },
+    {
+      "path": "runtime/carryon/judge/client.py"
+    },
+    {
+      "path": "runtime/carryon/judge/config.py"
+    },
+    {
+      "path": "runtime/carryon/judge/factory.py"
+    },
+    {
+      "path": "runtime/carryon/judge/routing.py"
+    },
+    {
+      "path": "runtime/carryon/judge/success_confirmation.py"
+    },
+    {
+      "path": "runtime/carryon/judge/supervisor.py"
+    },
+    {
+      "path": "runtime/carryon/locations.py"
+    },
+    {
+      "path": "runtime/carryon/logging_util.py"
+    },
+    {
+      "path": "runtime/carryon/main.py"
+    },
+    {
+      "path": "runtime/carryon/memory/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/memory/factory.py"
+    },
+    {
+      "path": "runtime/carryon/memory/markdown_store.py"
+    },
+    {
+      "path": "runtime/carryon/memory/scene.py"
+    },
+    {
+      "path": "runtime/carryon/memory/short_term.py"
+    },
+    {
+      "path": "runtime/carryon/memory/user.py"
+    },
+    {
+      "path": "runtime/carryon/memory/user_summarizer.py"
+    },
+    {
+      "path": "runtime/carryon/planner/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/planner/client.py"
+    },
+    {
+      "path": "runtime/carryon/planner/factory.py"
+    },
+    {
+      "path": "runtime/carryon/planner/planner.py"
+    },
+    {
+      "path": "runtime/carryon/planner/schema.py"
+    },
+    {
+      "path": "runtime/carryon/providers/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/providers/images.py"
+    },
+    {
+      "path": "runtime/carryon/providers/openrouter.py"
+    },
+    {
+      "path": "runtime/carryon/providers/scene_capture.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/arbiter.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/assertions.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/backend.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/bridge.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/catalog.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/curobo_runner.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/curobo_subprocess.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/factory.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/gello_client.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/geometry.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/graspnet_pytorch_runner.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/integration.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/jam_z_reflection.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/library.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/molmo_runner.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/orchestrator.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/policy.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/positionfix_memory.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/preplace.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/primitives.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/recorder.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/reflection.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/reflector_live.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/sam3_runner.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/schema.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/semantic_memory.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/semantic_reflection.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/strategy.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/transport_clearance.py"
+    },
+    {
+      "path": "runtime/carryon/recovery/visual_object_memory.py"
+    },
+    {
+      "path": "runtime/carryon/skills/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/skills/base.py"
+    },
+    {
+      "path": "runtime/carryon/skills/factory.py"
+    },
+    {
+      "path": "runtime/carryon/skills/invoker.py"
+    },
+    {
+      "path": "runtime/carryon/skills/scene_describer.py"
+    },
+    {
+      "path": "runtime/carryon/skills/search_container.py"
+    },
+    {
+      "path": "runtime/carryon/skills/search_locations.py"
+    },
+    {
+      "path": "runtime/carryon/skills/update_scene.py"
+    },
+    {
+      "path": "runtime/carryon/skills/wait.py"
+    },
+    {
+      "path": "runtime/carryon/skills/web_query.py"
+    },
+    {
+      "path": "runtime/carryon/transports/__init__.py"
+    },
+    {
+      "path": "runtime/carryon/transports/base.py"
+    },
+    {
+      "path": "runtime/carryon/transports/factory.py"
+    },
+    {
+      "path": "runtime/carryon/transports/http.py"
+    },
+    {
+      "path": "runtime/carryon/transports/local.py"
+    },
+    {
+      "path": "runtime/carryon/transports/mock.py"
+    },
+    {
+      "path": "runtime/carryon/types.py"
+    },
+    {
+      "path": "runtime_paths.py"
+    },
+    {
+      "path": "tools/recovery/recovery_entrypoint.py"
+    },
+    {
+      "path": "worker/selector_prompt.txt"
+    },
+    {
+      "path": "worker/recovery_policy.json"
+    },
+    {
+      "path": "worker/execution_binding.py"
+    },
+    {
+      "path": "worker/memory_binding.py"
+    },
+    {
+      "path": "worker/keyframe_binding.py"
+    },
+    {
+      "path": "worker/protocol_binding.py"
+    },
+    {
+      "path": "worker/selector_prompt_binding.py"
+    },
+    {
+      "path": "data/sim_camera_spec.json"
+    },
+    {
+      "path": "data/object_catalog.libero_object.yaml"
+    }
+  ]
+}

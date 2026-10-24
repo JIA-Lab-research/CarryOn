@@ -1,0 +1,110 @@
+{
+  "applies_to": "",
+  "failure_type": "hold_lost",
+  "handback_mode": "pre_place",
+  "name": "recover_hold_lost",
+  "rationale": "Shared native geometry; one P read before family; at most short then long after qualified failure. No object constants or runtime writeback. Each retry attempt explicitly reopens under the unchanged structural loader.",
+  "steps": [
+    {
+      "op": "goto_init"
+    },
+    {
+      "op": "open_gripper"
+    },
+    {
+      "op": "ground_target",
+      "params": {
+        "plan": [
+          "task_target"
+        ]
+      }
+    },
+    {
+      "op": "perceive_grasps",
+      "params": {
+        "source": "topdown",
+        "top_k": 15
+      }
+    },
+    {
+      "op": "retry",
+      "params": {
+        "body": [
+          {
+            "op": "open_gripper",
+            "params": {}
+          },
+          {
+            "op": "goto_grasp_topdown_family",
+            "params": {
+              "fallback_max_tilt_deg": 0,
+              "fresh_ground_params": {
+                "plan": [
+                  "task_target"
+                ]
+              },
+              "fresh_perceive_params": {
+                "source": "topdown",
+                "top_k": 15
+              },
+              "fresh_retry_max_attempts": 1,
+              "frozen_candidate_only": true,
+              "plan_grasp_to_lift": false,
+              "verify": true,
+              "yaw_degs": [],
+              "z_approach": 0.1
+            }
+          },
+          {
+            "op": "close_gripper",
+            "params": {
+              "width": 0.02
+            }
+          },
+          {
+            "op": "lift",
+            "params": {
+              "dz": 0.06
+            }
+          },
+          {
+            "op": "assert_holding",
+            "params": {
+              "lift_width_epsilon_m": 0.006,
+              "max_open_margin_m": 0.002,
+              "semantics": "contact_width_lift_stable_v2"
+            }
+          }
+        ],
+        "max_attempts": 2,
+        "mode": "common_short_long_v1"
+      }
+    },
+    {
+      "op": "vertical_lift_to_clearance",
+      "params": {
+        "dz": 0.08
+      }
+    },
+    {
+      "op": "ground_destination"
+    },
+    {
+      "op": "goto_place",
+      "params": {
+        "clearance_m": 0.03,
+        "release_bias_m": 0.02,
+        "standoff_only": true
+      }
+    },
+    {
+      "op": "assert_holding",
+      "params": {
+        "lift_width_epsilon_m": 0.006,
+        "max_open_margin_m": 0.002,
+        "semantics": "contact_width_lift_stable_v2"
+      }
+    }
+  ],
+  "version": "COMMON_NATIVE_SHORT_LONG_V2-isolated"
+}

@@ -1,0 +1,63 @@
+# RoboLab endpoint-selection configuration.
+# The visual judge, manipulation recovery and reflection are disabled.
+
+planner_vlm:
+  provider: openrouter
+  model: "qwen/qwen3-vl-32b-instruct"
+  api_key: "${OPENROUTER_API_KEY}"
+  base_url: "https://openrouter.ai/api/v1"
+  temperature: 0.2
+  # Keep served camera frames at their native resolution to avoid re-encoding.
+  max_image_edge_px: 1024
+  max_image_attachments: 4
+  # No ambient station views: each view must be requested through check_endpoint.
+  cameras: []
+  snapshot_output_dir: "./logs/robolab/planner_snapshots"
+
+# Station-camera names must match endpoint camera declarations.
+check_endpoint:
+  cameras:
+    - name: garage_cam
+      type: http_image
+      snapshot_url: "http://127.0.0.1:18121/cameras/garage_cam/latest_raw.jpg"
+      description: "Camera over the garage workbench."
+    - name: dining_cam
+      type: http_image
+      snapshot_url: "http://127.0.0.1:18121/cameras/dining_cam/latest_raw.jpg"
+      description: "Camera over the dining table."
+    - name: kitchen_cam
+      type: http_image
+      snapshot_url: "http://127.0.0.1:18121/cameras/kitchen_cam/latest_raw.jpg"
+      description: "Camera over the kitchen counter."
+    - name: desk_cam
+      type: http_image
+      snapshot_url: "http://127.0.0.1:18121/cameras/desk_cam/latest_raw.jpg"
+      description: "Camera over the study desk."
+
+memory:
+  max_tokens: 32000
+  # Per-run, so episode k=1 starts with an empty profile and k=2 inherits
+  # exactly what k=1 wrote -- nothing else.
+  data_dir: "./logs/robolab/memory"
+  user_id: "robolab"
+
+endpoints:
+  config: "./evaluation/endpoints.yaml"
+  default_transport: mock
+
+executor:
+  max_retries: 0
+
+mock:
+  # Complete mock dispatches through callbacks so the planning loop can finish.
+  auto_callback_after_s: 1.0
+
+vlm_judge:
+  enabled: false
+
+recovery:
+  enabled: false
+
+logging:
+  planner_log_path: "./logs/robolab/planner.log"
+  transport_log_path: "./logs/robolab/transport.log"

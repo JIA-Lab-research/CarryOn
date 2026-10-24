@@ -1,0 +1,241 @@
+{
+  "schema": "carryon-environments/v1",
+  "environments": {
+    "curobo": {
+      "python": "3.10.20",
+      "requirements": "requirements/locks/curobo.txt",
+      "custom_packages": [
+        {
+          "name": "nvidia-curobo",
+          "version": "0.0.0"
+        }
+      ]
+    },
+    "molmo": {
+      "python": "3.11.13",
+      "requirements": "requirements/locks/molmo.txt",
+      "custom_packages": []
+    },
+    "oft": {
+      "python": "3.10.19",
+      "requirements": "requirements/locks/oft.txt",
+      "custom_packages": [
+        {
+          "name": "dlimp",
+          "version": "0.0.1"
+        },
+        {
+          "name": "flash-attn",
+          "version": "2.5.5"
+        },
+        {
+          "name": "openvla-oft",
+          "version": "0.0.1"
+        },
+        {
+          "name": "transformers",
+          "version": "4.40.1"
+        }
+      ]
+    },
+    "openpi": {
+      "python": "3.11.15",
+      "requirements": "requirements/locks/openpi.txt",
+      "custom_packages": [
+        {
+          "name": "lerobot",
+          "version": "0.1.0"
+        },
+        {
+          "name": "openpi",
+          "version": "0.1.0"
+        },
+        {
+          "name": "openpi-client",
+          "version": "0.1.0"
+        }
+      ]
+    },
+    "planner": {
+      "python": "3.10.19",
+      "requirements": "requirements/locks/planner.txt",
+      "custom_packages": []
+    },
+    "sam3": {
+      "python": "3.12.0",
+      "requirements": "requirements/locks/sam3.txt",
+      "custom_packages": [
+        {
+          "name": "sam3",
+          "version": "0.1.0"
+        }
+      ]
+    },
+    "simulation": {
+      "python": "3.10.19",
+      "requirements": "requirements/locks/simulation.txt",
+      "custom_packages": []
+    },
+    "starvla": {
+      "python": "3.10.20",
+      "requirements": "requirements/locks/starvla.txt",
+      "custom_packages": [
+        {
+          "name": "flash_attn",
+          "version": "2.7.4.post1"
+        }
+      ]
+    },
+    "safety-client": {
+      "python": "3.11.15",
+      "requirements": "requirements/locks/safety-client.txt",
+      "custom_packages": [
+        {
+          "name": "openpi-client",
+          "version": "0.1.0"
+        }
+      ]
+    }
+  },
+  "sources": {
+    "sam3": {
+      "url": "https://github.com/facebookresearch/sam3",
+      "revision": "b26a5f330e05d321afb39d01d3d4881f258f65ff"
+    },
+    "curobo": {
+      "url": "https://github.com/NVlabs/curobo",
+      "revision": "a35a708ecfbb26eb9ab2d7ef22c65919c4fae4a9"
+    },
+    "openpi": {
+      "url": "https://github.com/Physical-Intelligence/openpi",
+      "revision": "aa6420561529593114160d05e5ad155792b272f3"
+    },
+    "lerobot": {
+      "revision": "0cf864870cf29f4738d3ade893e6fd13fbd7cdb5",
+      "url": "https://github.com/huggingface/lerobot"
+    },
+    "openvla-oft": {
+      "url": "https://github.com/moojink/openvla-oft",
+      "revision": "e4287e94541f459edc4feabc4e181f537cd569a8"
+    },
+    "oft-transformers": {
+      "revision": "bc339d9ad707454c0c115970db43c260067c61ab",
+      "url": "https://github.com/moojink/transformers-openvla-oft"
+    },
+    "dlimp": {
+      "revision": "040105d256bd28866cc6620621a3d5f7b6b91b46",
+      "url": "https://github.com/moojink/dlimp_openvla"
+    },
+    "starvla": {
+      "url": "https://github.com/starVLA/starVLA",
+      "revision": "1e2f03a982f3cbc24ac8ad796707a639db73d7b7"
+    },
+    "vlact": {
+      "url": "https://github.com/starVLA/VLAct",
+      "revision": "621b01bb830e1a400f12f4c05262add55ae3003a"
+    }
+  },
+  "binary_wheels": {
+    "starvla": {
+      "url": "https://github.com/Dao-AILab/flash-attention/releases/download/v2.7.4.post1/flash_attn-2.7.4.post1+cu12torch2.6cxx11abiFALSE-cp310-cp310-linux_x86_64.whl"
+    },
+    "oft": {
+      "url": "https://github.com/Dao-AILab/flash-attention/releases/download/v2.5.5/flash_attn-2.5.5%2Bcu122torch2.2cxx11abiFALSE-cp310-cp310-linux_x86_64.whl"
+    }
+  },
+  "profiles": {
+    "simulation": {
+      "sources": [],
+      "install": []
+    },
+    "planner": {
+      "sources": [],
+      "install": []
+    },
+    "molmo": {
+      "sources": [],
+      "install": []
+    },
+    "sam3": {
+      "sources": [
+        "sam3"
+      ],
+      "install": [
+        {
+          "source": "sam3"
+        }
+      ]
+    },
+    "curobo": {
+      "sources": [
+        "curobo"
+      ],
+      "install": [
+        {
+          "source": "curobo"
+        }
+      ]
+    },
+    "openpi": {
+      "sources": [
+        "openpi",
+        "lerobot"
+      ],
+      "install": [
+        {
+          "source": "lerobot"
+        },
+        {
+          "source": "openpi",
+          "subdirectory": "packages/openpi-client"
+        },
+        {
+          "source": "openpi"
+        }
+      ],
+      "transformers_patch": [
+        "models/paligemma/modeling_paligemma.py",
+        "models/siglip/check.py",
+        "models/siglip/modeling_siglip.py",
+        "models/gemma/modeling_gemma.py",
+        "models/gemma/configuration_gemma.py"
+      ]
+    },
+    "oft": {
+      "sources": [
+        "openvla-oft",
+        "oft-transformers",
+        "dlimp"
+      ],
+      "install": [
+        {
+          "source": "oft-transformers"
+        },
+        {
+          "source": "dlimp"
+        },
+        {
+          "source": "openvla-oft"
+        }
+      ]
+    },
+    "starvla": {
+      "sources": [
+        "starvla",
+        "vlact"
+      ],
+      "install": []
+    },
+    "safety-client": {
+      "sources": [
+        "openpi"
+      ],
+      "install": [
+        {
+          "source": "openpi",
+          "subdirectory": "packages/openpi-client"
+        }
+      ]
+    }
+  }
+}

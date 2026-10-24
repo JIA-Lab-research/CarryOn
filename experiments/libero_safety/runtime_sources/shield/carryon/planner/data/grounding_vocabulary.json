@@ -1,0 +1,13 @@
+{
+  "schema": "benchmark-grounding-vocabulary/1",
+  "ordering_rule": "literal-first. These alternates are consulted only after the literal phrase and its existing article/head-noun alternates have all missed. First hit wins; order preserving; de-duplicated.",
+  "fail_closed_rule": "If the literal phrase and every declared alternate miss, the mask stays empty and the episode fail-closes exactly as before. This table can never turn a miss into a pass by itself.",
+  "entries": [
+    {
+      "instruction_word": "microwave",
+      "alternates": [
+        "microwave door"
+      ]
+    }
+  ]
+}

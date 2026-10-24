@@ -1,0 +1,158 @@
+{
+  "configs": [
+    {
+      "cell": "bagel",
+      "config_id": "bagel__franka_garage_bench",
+      "expected_endpoint": "franka_dining_table",
+      "stale_station": "franka_garage_bench"
+    },
+    {
+      "cell": "bagel",
+      "config_id": "bagel__franka_kitchen_counter",
+      "expected_endpoint": "franka_dining_table",
+      "stale_station": "franka_kitchen_counter"
+    },
+    {
+      "cell": "bagel",
+      "config_id": "bagel__franka_study_desk",
+      "expected_endpoint": "franka_dining_table",
+      "stale_station": "franka_study_desk"
+    },
+    {
+      "cell": "banana",
+      "config_id": "banana__franka_dining_table",
+      "expected_endpoint": "franka_garage_bench",
+      "stale_station": "franka_dining_table"
+    },
+    {
+      "cell": "banana",
+      "config_id": "banana__franka_kitchen_counter",
+      "expected_endpoint": "franka_garage_bench",
+      "stale_station": "franka_kitchen_counter"
+    },
+    {
+      "cell": "banana",
+      "config_id": "banana__franka_study_desk",
+      "expected_endpoint": "franka_garage_bench",
+      "stale_station": "franka_study_desk"
+    },
+    {
+      "cell": "birdhouse",
+      "config_id": "birdhouse__franka_dining_table",
+      "expected_endpoint": "franka_kitchen_counter",
+      "stale_station": "franka_dining_table"
+    },
+    {
+      "cell": "birdhouse",
+      "config_id": "birdhouse__franka_garage_bench",
+      "expected_endpoint": "franka_kitchen_counter",
+      "stale_station": "franka_garage_bench"
+    },
+    {
+      "cell": "birdhouse",
+      "config_id": "birdhouse__franka_study_desk",
+      "expected_endpoint": "franka_kitchen_counter",
+      "stale_station": "franka_study_desk"
+    },
+    {
+      "cell": "hammer",
+      "config_id": "hammer__franka_dining_table",
+      "expected_endpoint": "franka_garage_bench",
+      "stale_station": "franka_dining_table"
+    },
+    {
+      "cell": "hammer",
+      "config_id": "hammer__franka_kitchen_counter",
+      "expected_endpoint": "franka_garage_bench",
+      "stale_station": "franka_kitchen_counter"
+    },
+    {
+      "cell": "hammer",
+      "config_id": "hammer__franka_study_desk",
+      "expected_endpoint": "franka_garage_bench",
+      "stale_station": "franka_study_desk"
+    },
+    {
+      "cell": "keyboard",
+      "config_id": "keyboard__franka_dining_table",
+      "expected_endpoint": "franka_study_desk",
+      "stale_station": "franka_dining_table"
+    },
+    {
+      "cell": "keyboard",
+      "config_id": "keyboard__franka_garage_bench",
+      "expected_endpoint": "franka_study_desk",
+      "stale_station": "franka_garage_bench"
+    },
+    {
+      "cell": "keyboard",
+      "config_id": "keyboard__franka_kitchen_counter",
+      "expected_endpoint": "franka_study_desk",
+      "stale_station": "franka_kitchen_counter"
+    },
+    {
+      "cell": "measuring_cup",
+      "config_id": "measuring_cup__franka_dining_table",
+      "expected_endpoint": "franka_kitchen_counter",
+      "stale_station": "franka_dining_table"
+    },
+    {
+      "cell": "measuring_cup",
+      "config_id": "measuring_cup__franka_garage_bench",
+      "expected_endpoint": "franka_kitchen_counter",
+      "stale_station": "franka_garage_bench"
+    },
+    {
+      "cell": "measuring_cup",
+      "config_id": "measuring_cup__franka_study_desk",
+      "expected_endpoint": "franka_kitchen_counter",
+      "stale_station": "franka_study_desk"
+    },
+    {
+      "cell": "mustard",
+      "config_id": "mustard__franka_dining_table",
+      "expected_endpoint": "franka_study_desk",
+      "stale_station": "franka_dining_table"
+    },
+    {
+      "cell": "mustard",
+      "config_id": "mustard__franka_garage_bench",
+      "expected_endpoint": "franka_study_desk",
+      "stale_station": "franka_garage_bench"
+    },
+    {
+      "cell": "mustard",
+      "config_id": "mustard__franka_kitchen_counter",
+      "expected_endpoint": "franka_study_desk",
+      "stale_station": "franka_kitchen_counter"
+    },
+    {
+      "cell": "rubiks",
+      "config_id": "rubiks__franka_garage_bench",
+      "expected_endpoint": "franka_dining_table",
+      "stale_station": "franka_garage_bench"
+    },
+    {
+      "cell": "rubiks",
+      "config_id": "rubiks__franka_kitchen_counter",
+      "expected_endpoint": "franka_dining_table",
+      "stale_station": "franka_kitchen_counter"
+    },
+    {
+      "cell": "rubiks",
+      "config_id": "rubiks__franka_study_desk",
+      "expected_endpoint": "franka_dining_table",
+      "stale_station": "franka_study_desk"
+    }
+  ],
+  "generated_mechanically": true,
+  "n_configs": 24,
+  "rule": "each object x each of the 3 non-host stations",
+  "schema": "robolab-mstale-v3-seed-table/v1",
+  "stations": [
+    "franka_dining_table",
+    "franka_garage_bench",
+    "franka_kitchen_counter",
+    "franka_study_desk"
+  ]
+}

@@ -1,0 +1,54 @@
+How SCENE MEMORY works:
+- SCENE MEMORY is last-known reference context, not guaranteed current state.
+  It records one entry per named place.
+- A "place" is any region whose contents cannot be read off the current view
+  (enclosed, obscured, occluded, or out of frame). YOU choose its name from
+  what identifies it in the view; the name is a memory key, not a configured
+  constant, and there is no pre-declared list of places to copy from.
+- If the user STATES what is at a place, that settles WHAT TO RECORD: dispatch
+  `update_scene` and do not stage a trip whose only point is to confirm it. The
+  record is settled; the world is not.
+- AN ENTRY LICENSES THE LOOK, NOT THE GRAB. It says what was true WHEN IT WAS
+  WRITTEN, and the workspace can have changed since without anyone saying so.
+  So an entry tells you WHERE to go and never what you will find there: a step
+  you take because an entry says the target is there has purpose "observe" --
+  you have not seen the target, and what you actually find decides what comes
+  next. Reaching for the target in the same plan is reaching for something you
+  have only been told about.
+- If the task needs the contents of a place you cannot observe, plan the
+  ORDINARY subtasks that make it observable -- whatever the scene and the
+  registered endpoints afford -- and then dispatch `update_scene` with what was
+  actually observed. There is no separate search endpoint; decompose it
+  yourself. An existing entry does not excuse this: it told you where to look
+  first, and what you then SEE is what gets recorded.
+- WHAT YOU JUST SAW IS PERISHABLE; THE RECORD IS NOT. A later turn sees only
+  the record, so an observation you never write down is lost, and an entry you
+  have just disproved will send that turn back to the same place. Whenever what
+  you find differs from what an entry says -- or concerns a place with no entry
+  -- dispatch `update_scene` for it IN THE SAME PLAN as the next physical step,
+  never as a plan of its own. Record both halves of what you learned: the place
+  that did not hold what was recorded, and the place that did.
+- A target you need but CANNOT see is itself a place question: work out from
+  the live image where it could be, make that place observable, then act on
+  what you actually find there.
+- Record only what was established (told or observed). Never write a guess.
+- When an action makes a place observable, compare its contents with the fresh
+  camera image. The fresh visual observation overrides scene memory. If the
+  contents differ, dispatch `update_scene` with the new contents. Never use
+  scene memory to resolve uncertainty in the current image.
+- WHEN A FINISHED STEP REPORTS WHAT IT REVEALED, THAT REPORT IS WHAT IS THERE.
+  It was written from the pixels at the moment the place was uncovered, by a
+  reader whose whole job was to say what appeared. Prefer it over an entry,
+  over what you expected, and over a second guess at the image. Never restate
+  an entry as though you had just seen it.
+- A step result carrying `scene_update_required` is an OUTSTANDING RECORD. That
+  step saw a place and nothing has written it down; the description lives only
+  in this turn's results, while the record is what the next turn reads. Your
+  NEXT plan must carry an `update_scene` for that place, saying what that
+  step's `revealed_contents` actually said -- not what you expected it to say,
+  and not a summary that drops the part which surprised you. You are the only
+  one who can do this; no other step will. THE PARSER ENFORCES THIS: while a
+  record is outstanding, a plan without an `update_scene` subtask is rejected.
+- Send an `update_scene` correction IN THE SAME PLAN as the next physical step,
+  never as a plan of its own: a plan that only writes memory ends the turn, and
+  the work the correction was meant to enable never happens.

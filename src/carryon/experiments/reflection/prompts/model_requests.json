@@ -1,0 +1,37 @@
+{
+  "P": {
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "temperature": 0.0,
+    "top_p": 0.8,
+    "max_tokens": 1400,
+    "provider": {
+      "order": [
+        "alibaba"
+      ],
+      "only": [
+        "alibaba"
+      ],
+      "allow_fallbacks": false,
+      "data_collection": "deny"
+    }
+  },
+  "S": {
+    "model": "qwen/qwen3-vl-235b-a22b-instruct",
+    "temperature": 0.0,
+    "top_p": 0.8,
+    "max_tokens": 700,
+    "provider": {
+      "order": [
+        "alibaba"
+      ],
+      "only": [
+        "alibaba"
+      ],
+      "allow_fallbacks": false,
+      "data_collection": "deny"
+    }
+  },
+  "per_role_per_object_per_round_requests_max": 1,
+  "HTTP_retries": 0,
+  "automatic_repair_calls": 0
+}

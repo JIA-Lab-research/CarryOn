@@ -1,0 +1,57 @@
+{
+  "objects": [
+    {
+      "canonical_rgb": "${file:references/alphabet_soup.png}",
+      "object_name": "alphabet soup",
+      "sha256": "4338ce739e6426ed92045fc0764e0d6c52a824fcfb22bd248ae5cc79579efb79"
+    },
+    {
+      "canonical_rgb": "${file:references/bbq_sauce.png}",
+      "object_name": "bbq sauce",
+      "sha256": "a13bc9977ca553c58a8786b230895815b3246b9ab4c436061d7cc8484e1e13e6"
+    },
+    {
+      "canonical_rgb": "${file:references/butter.png}",
+      "object_name": "butter",
+      "sha256": "3cdc2f3ddd182c769113fe0efa670a06ee94a10d6f391a88bf519deef3baceef"
+    },
+    {
+      "canonical_rgb": "${file:references/chocolate_pudding.png}",
+      "object_name": "chocolate pudding",
+      "sha256": "58b1b0039265f76061b2608b34bd003609ec5960c98a8070ae7a516180883425"
+    },
+    {
+      "canonical_rgb": "${file:references/cream_cheese.png}",
+      "object_name": "cream cheese",
+      "sha256": "c40cc5a19c0bbd4e23e6d5173256bfa42228134db05191429d78cad6c72266f7"
+    },
+    {
+      "canonical_rgb": "${file:references/ketchup.png}",
+      "object_name": "ketchup",
+      "sha256": "57526286c7d8c82966f600bd0c66024542286c6ffec7981c393e40171c52178e"
+    },
+    {
+      "canonical_rgb": "${file:references/milk.png}",
+      "object_name": "milk",
+      "sha256": "840ffcddbb2341a1f704323e9618bd5bdf39d112738f3dee9446777ec083e9af"
+    },
+    {
+      "canonical_rgb": "${file:references/orange_juice.png}",
+      "object_name": "orange juice",
+      "sha256": "2348df5a0faf6c7498a593cc3b8ce0fa5bd35c2627e9c5bd882c59f2879a29cf"
+    },
+    {
+      "canonical_rgb": "${file:references/salad_dressing.png}",
+      "object_name": "salad dressing",
+      "sha256": "e934f1f4fed555ef2542118d4b795e0e53ed29e423a7c1710d5d27159390784e"
+    },
+    {
+      "canonical_rgb": "${file:references/tomato_sauce.png}",
+      "object_name": "tomato sauce",
+      "sha256": "28c49a548a73325aef51e2314c6899a6f3e308042c58c2e0adc5f234d6ef0dd1"
+    }
+  ],
+  "schema": "carryon-v7-isolated-reference-compat/v1",
+  "source_registry_path": "${file:references/FROZEN_REFERENCE_REGISTRY.json}",
+  "source_registry_sha256": "${sha256:references/FROZEN_REFERENCE_REGISTRY.json}"
+}

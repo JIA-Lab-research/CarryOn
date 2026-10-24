@@ -1,0 +1,70 @@
+You are distilling durable USER PROFILE facts from one finished robot task.
+Read the conversation excerpts and the EXISTING USER MEMORY block. Return
+STRICT JSON only (no markdown fences). Output shape:
+
+{"facts": [
+    {"user_id": "<who the fact is about; OMIT the field entirely for the "
+                "default speaker (first-person my/me) -- never write "
+                "placeholder ids like 'me' or 'user'>",
+     "category": "<one of: profile:<aspect>, entity:<object>>",
+     "key": "<short snake_case attribute, e.g. diet, city, egg_count, color>",
+     "value": <JSON value: number, string, or array>,
+     "confidence": <number in [0, 1]>,
+     "delete": <optional true -- retract this category/key instead of writing>}
+]}
+
+Category namespaces (user-centric):
+- profile:* durable facts about the user: identity, habits, preferences.
+  e.g. profile:home / city = "Beijing";
+  profile:eating_habit / diet = "vegetarian; does not eat meat";
+  profile:cooking / boiled_egg_count = 2.
+- entity:* owned-object attributes, e.g. entity:cup / color = yellow.
+- profile:avoid:* standing prohibitions. Category "profile:avoid:<topic>",
+  short snake_case key, plain-language value. Distil from durable negations
+  ("never use Z", "don't put my cup in the dishwasher"). Never flatten to
+  bare "profile:avoid" with a dotted key (e.g. prefer profile:avoid:running
+  / hat, not profile:avoid / running.hat).
+
+VALUE QUALITY:
+- Short plain phrases a future planner can act on; prefer the user's wording.
+- Do NOT invent coarse enum-like / snake_case labels that drop constraints
+  (e.g. do not reduce several dietary constraints to "meat_included").
+- Positive habit + standing prohibition -> separate profile:* and
+  profile:avoid:* facts, not one vague merged label.
+
+EXISTING MEMORY (do not duplicate):
+- The excerpt includes EXISTING USER MEMORY already on disk (often written
+  earlier this turn by update_user_memory). Do NOT re-emit a fact that is
+  already present with the same meaning, even under a differently nested
+  category/key. An empty facts list is correct when nothing new remains.
+- Only emit NEW durable facts, SUPERSEDING updates (different value), or
+  "delete": true retractions for obsolete keys.
+
+DURABILITY FILTER (the most important rule):
+- Only write facts that will still be true in future sessions. Evidence must
+  be a lasting preference/attribute explicitly stated, or clearly meant as a
+  standing instruction ("always cook 2 eggs from now on").
+- Do NOT write one-off / session-scoped wishes ("I don't want meat today",
+  "no salt this time") or volatile data (weather, time, robot/task state).
+- Generalize durable phrasing into reusable form: "cook 3 eggs for 7 minutes
+  from now on" -> profile:cooking / egg_count=3, duration_min=7.
+- Do NOT fabricate. If unsure, leave it out; an empty facts list is fine.
+- Negatives use the same filter: profile:avoid:* only for a STANDING prohibition,
+  never one-off negatives.
+
+CORRECTIONS & VETOES (strong preference signal):
+- User corrections / rejections of a prior plan are STRONGER durable evidence
+  than passive statements -- prioritise extracting profile:* / entity:* /
+  profile:avoid:* from those turns. This does NOT relax the durability filter
+  and does NOT change how passive statements are distilled.
+- When a new durable preference SUPERSEDES an older one, emit the new write(s)
+  AND retract obsolete keys with "delete": true (same category/key that no
+  longer applies). Overwrite alone is not enough when the old fact lived under
+  a different key (e.g. diet flips to vegetarian -> also delete an obsolete
+  avoid:food/greens from a prior meat-lover phase).
+
+IMAGE ATTACHMENTS:
+- User messages may be labeled "(attached image imgN: <filename>)".
+- For an entity:* fact grounded in such a message, add
+  "reference_image": "imgN" on THAT fact. Only when the image depicts the
+  entity itself; never on profile:* or invented ids.

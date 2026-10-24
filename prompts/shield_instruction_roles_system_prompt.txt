@@ -1,0 +1,7 @@
+You extract manipulation roles from a robot instruction. Reply with EXACTLY one JSON object and nothing else:
+  {"targets": ["<noun phrase naming one object the robot must grasp or move>", ...], "source": "<the surface the target currently rests on, or null if the instruction does not say>", "destination": "<the surface or container the target must end up on or in>", "plural": true|false}
+targets is a LIST. It has one entry per DISTINCT object the instruction names as something to grasp or move. An instruction that names two different objects has two entries. An instruction that names one kind of object of which there are several has one entry.
+Each entry in targets names an object itself. Remove quantity words such as 'both' or 'two', but preserve the target noun's original singular or plural form. The plural flag does not replace plural wording; never rewrite a plural noun as its singular lemma.
+source is where the target starts and destination is where it must end up. They are their own fields; neither is part of targets.
+plural is true when the instruction commands that more than one object be moved.
+Use the instruction's own words for each noun phrase. If a role is genuinely absent, use null. Do not invent objects the instruction does not mention.

@@ -1,0 +1,233 @@
+{
+  "endpoints": {
+    "endpoints": [
+      {
+        "address": "http://127.0.0.1:@control_port@/execute",
+        "description": "Franka Panda arm in the LIBERO `libero_object` simulation, driven by a\nstarVLA policy through the sim gello-shim. Accepts one natural-language\npick-and-place subtask per request and executes one training prompt once.\nGood at tabletop pick-and-place into the basket. Cannot navigate.\n\nExample instruction: \"pick up the alphabet soup and place it in the basket\"\n",
+        "judge_success_release": "complete_terminal_v1",
+        "name": "franka_sim",
+        "return_home_on_cancel": false,
+        "skill_library": [
+          "pick up the {object} and place it in the basket",
+          "pick up the alphabet soup and place it in the basket",
+          "pick up the cream cheese and place it in the basket",
+          "pick up the milk and place it in the basket",
+          "pick up the orange juice and place it in the basket",
+          "pick up the salad dressing and place it in the basket",
+          "pick up the bbq sauce and place it in the basket",
+          "pick up the ketchup and place it in the basket",
+          "pick up the tomato sauce and place it in the basket",
+          "pick up the butter and place it in the basket",
+          "pick up the chocolate pudding and place it in the basket"
+        ],
+        "tags": [
+          "arm",
+          "franka",
+          "right_arm",
+          "tabletop",
+          "vla",
+          "sim"
+        ],
+        "transport": "http"
+      }
+    ]
+  },
+  "runtime": {
+    "callback": {
+      "channel": "webhook",
+      "host": "127.0.0.1",
+      "port": "@callback_port@",
+      "public_url": "http://127.0.0.1:@callback_port@"
+    },
+    "endpoints": {
+      "config": "@row@/endpoints.yaml",
+      "default_transport": "http"
+    },
+    "executor": {
+      "max_concurrency": 1,
+      "max_retries": 0,
+      "react_on_failure": false,
+      "retry_backoff_base_s": 0.5,
+      "retry_backoff_cap_s": 5.0
+    },
+    "http": {
+      "default_timeout": 60.0
+    },
+    "jobs": {
+      "default_deadline_s": 120,
+      "tick_interval_s": 5
+    },
+    "logging": {
+      "planner_log_path": "@row@/runtime_logs/planner.log",
+      "planner_log_stdout": true,
+      "transport_log_path": "@row@/runtime_logs/transport.log",
+      "transport_log_stdout": true
+    },
+    "memory": {
+      "data_dir": "@row@/dialogue_memory",
+      "max_tokens": 32000,
+      "user_id": "sim"
+    },
+    "planner_vlm": {
+      "api_key": "unused",
+      "base_url": "http://127.0.0.1:9/v1",
+      "cameras": [
+        {
+          "description": "Agentview camera of the LIBERO workspace (served by the shim).",
+          "name": "overhead_rgb",
+          "snapshot_url": "http://127.0.0.1:@camera_port@/cameras/overhead_rgb/latest.jpg",
+          "type": "http_image"
+        }
+      ],
+      "model": "qwen/qwen3-vl-32b-instruct",
+      "provider": "openrouter"
+    },
+    "recovery": {
+      "bridge_host": "127.0.0.1",
+      "bridge_pub_port": "@pub_port@",
+      "bridge_pull_port": "@pull_port@",
+      "bridge_rep_port": "@rep_port@",
+      "camera_name": "overhead_rgb",
+      "camera_spec_path": "@runtime@/data/sim_camera_spec.json",
+      "close_width_m": 0.02,
+      "collision_activation_m": 0.01,
+      "curobo_robot_config": "franka.yml",
+      "curobo_world_config": "",
+      "enable_molmo": true,
+      "enabled": true,
+      "exec_hz": 20.0,
+      "exec_max_step_rad": 0.1,
+      "gello_base_url": "http://127.0.0.1:@control_port@",
+      "gello_camera_url": "http://127.0.0.1:@camera_port@",
+      "grasp_below_top_enabled": true,
+      "grasp_below_top_frac": 0.27,
+      "grasp_below_top_max_m": 0.05,
+      "grasp_camera": "overhead_rgb",
+      "grasp_center_top_band_m": 0.03,
+      "grasp_disambig_max_dist_m": 0.2,
+      "grasp_disambig_prompt": "",
+      "grasp_fallback_topdown": false,
+      "grasp_primary": "graspgen",
+      "grasp_spatial_disambig": true,
+      "grasp_verify_joint_tol_rad": 0.07,
+      "grasp_x_offset_m": -0.015,
+      "grasp_y_offset_m": 0.0,
+      "grasp_yaw_offset_deg": 0.0,
+      "grasp_z_offset_m": 0.0,
+      "graspgen_port": "@graspgen_port@",
+      "graspnet_ckpt": "",
+      "graspnet_python_exe": "",
+      "graspnet_repo_dir": "",
+      "hold_check": "empty_relative",
+      "init_q": [
+        0.0,
+        0.0,
+        0.0,
+        -1.566,
+        0.0,
+        1.579,
+        0.0
+      ],
+      "local_table_clearance_m": 0.005,
+      "max_attempts": 1,
+      "min_primary_score": 0.1,
+      "min_primary_z_above_table_m": 0.005,
+      "molmo_cuda_visible_devices": "@molmo_gpu@",
+      "molmo_model_path": "@molmo_model@",
+      "molmo_python_exe": "@molmo_python@",
+      "molmo_pythonpath_prepend": "",
+      "object_catalog_path": "@runtime@/data/object_catalog.libero_object.yaml",
+      "object_hint": "",
+      "offset_world_x_m": 0.0,
+      "offset_world_y_m": 0.0,
+      "offset_world_z_m": 0.0,
+      "open_axis_angle_deg": 0.0,
+      "policy_json": "@runtime@/worker/recovery_policy.json",
+      "policy_name": "recover_hold_lost",
+      "rewind_escape_nudge_rad": 0.15,
+      "robot_base_x_m": -0.6,
+      "robot_base_y_m": 0.0,
+      "robot_base_z_m": 0.0,
+      "sam3_backend": "native",
+      "sam3_cuda_visible_devices": "@sam3_gpu@",
+      "sam3_device": "cuda",
+      "sam3_model_path": "@sam3_model@",
+      "sam3_python_exe": "@sam3_python@",
+      "sam3_retry_threshold": 0.15,
+      "sam3_threshold": 0.25,
+      "table_top_z": 0.0,
+      "tcp_offset_m": 0.1,
+      "use_curobo": true,
+      "use_graspnet": true,
+      "use_strategy_selector": true,
+      "verify_identity": true
+    },
+    "reflection_vlm": {
+      "api_key": "unused",
+      "base_url": "http://127.0.0.1:9/v1",
+      "model": "qwen/qwen3-vl-235b-a22b-instruct",
+      "provider": "openrouter",
+      "timeout_s": 90
+    },
+    "vlm_judge": {
+      "applies_to_tags": [
+        "arm"
+      ],
+      "camera": {
+        "cameras": [
+          {
+            "description": "Agentview camera of the LIBERO workspace (served by the shim).",
+            "name": "overhead_rgb",
+            "snapshot_url": "http://127.0.0.1:@camera_port@/cameras/overhead_rgb/latest.jpg",
+            "type": "http_image"
+          }
+        ],
+        "fetch_timeout_s": 5.0
+      },
+      "checkpoint_emptygrasp_count": 0,
+      "checkpoint_enabled": false,
+      "checkpoint_pause": false,
+      "checkpoint_release_stuck_count": 0,
+      "checkpoint_triage": false,
+      "debug": {
+        "enabled": true,
+        "output_dir": "@row@/runtime_logs/judge_debug"
+      },
+      "enabled": true,
+      "failure_takeover_wall_cap_s": 0,
+      "ignore_executor_terminal": false,
+      "judge": {
+        "checkpoint_emptygrasp_count": 0,
+        "checkpoint_enabled": false,
+        "checkpoint_pause": false,
+        "checkpoint_release_stuck_count": 0,
+        "checkpoint_triage": false,
+        "failure_streak_threshold": 1,
+        "failure_takeover_wall_cap_s": 0,
+        "history_window_frames": 3,
+        "max_polls": 0,
+        "min_fail_elapsed_s": 6,
+        "poll_interval_s": 1.0,
+        "proprio_drop_enabled": false,
+        "proprio_grace_s": 6,
+        "recent_observations_window": 3,
+        "stuck_force_failed_polls": 0,
+        "stuck_timeout_s": 6,
+        "success_requires_placed_match": true,
+        "success_streak_threshold": 3,
+        "system_prompt": "You are CarryOn VLM Judge, a visual progress supervisor for a robot manipulation task.\nYou receive the currently executing task, endpoint metadata, job ids, timing\ncontext, previous observations, and camera inputs.\n\nYour job is to decide whether the planner should keep waiting, advance to\nthe next task, or invoke a correction module. Return STRICT JSON only. Do\nnot include markdown or prose.\n\nUse exactly one of these statuses:\n- running: the task is still progressing or the visual evidence is inconclusive.\n- success: the requested task is visibly complete; planner_action must be advance_to_next_task.\n- failed: the task is visibly impossible, unsafe, clearly failed, or stuck beyond stuck_timeout_s; planner_action must be invoke_correction.\n- cancelled: the task was externally cancelled.\n\nYou are given a reference frame captured at the start of the episode and the\nmost recent current frame(s). Judge by comparing the current scene against the\nreference scene and the instruction's goal:\n- Report success ONLY when the current frame shows the instruction's goal\n  state achieved: the target object is clearly AT / INSIDE the specified\n  target location. For \"place X in/into Y\", X must be visibly inside Y, not\n  merely near, beside, or on the table by it.\n- Use the reference (start) frame to confirm a real change occurred toward the\n  goal. If the current scene is essentially unchanged from the reference, the\n  task is still running (or stuck), not success.\n- If the object ended up outside the target (on the table/floor/beside it)\n  after a place attempt, that is failed (mis-placed / dropped), not success.\n- Match the object to the instruction: confirm it is the correct object in the\n  correct destination before declaring success.\n- IDENTITY CHECK BEFORE SUCCESS (mandatory): before returning success you\n  MUST first describe, from the pixels, WHICH object is now inside the\n  destination (result.placed_object) and then decide whether it is the\n  instruction's target object (result.placed_matches_instruction). Layout\n  scenes contain look-alike distractor boxes/bottles; \"some box is in the\n  basket\" is NOT success. If the object in the destination is a different\n  object than instructed, return failed (wrong object placed -- recovery\n  must re-grasp the correct one). If you cannot confidently identify the\n  placed object, return running, not success.\n- TARGET-STILL-OUTSIDE CHECK: scan the CURRENT frame for the instruction's\n  target object OUTSIDE the destination (on the table/floor, at or near\n  its reference-frame position, or in the gripper). If the target object\n  is still visible outside the destination, the task CANNOT be success --\n  whatever sits inside the destination must be a different (wrong) object;\n  return failed with planner_action=invoke_correction in that case. This\n  check is often easier and more reliable than identifying the object\n  inside the destination, so perform it FIRST.\n\nProgress must be judged from the TARGET OBJECT and GOAL STATE, not from robot\nmotion. Arm/gripper motion alone is NOT progress. A gripper hovering above the\nobject, repeatedly approaching it, pushing on the table/object, opening/closing\nnear it, or moving without the object changing task-relevant state is still\nno progress. For \"pick X from A and place in B\", progress means X visibly\nleaves A, is securely carried toward B, or is placed inside B.\n\nSTUCK = FAILURE (MANDATORY OVERRIDE): If `elapsed_s` exceeds `stuck_timeout_s`\nAND the recent observations plus the current frame show no clear progress\ntoward the goal versus the reference/earlier frames (the target object has not\nmoved toward or into the target location), you MUST return status=\"failed\"\nwith planner_action=\"invoke_correction\" and a concrete `stuck_evidence`\nstring. Treat repeated attempts that press, scrape, or collide near the table\nwithout task-relevant object progress as STUCK/unsafe. An arm that keeps\nmoving or hovering without advancing the goal is STUCK, not progressing -- do\nNOT keep returning \"running\" in that case. When in doubt after the timeout\nwith no object-level progress, choose \"failed\", not \"running\".\n\nRequired JSON fields:\n- status: one of running, success, failed, cancelled.\n- result.planner_action: one of continue_observing, advance_to_next_task, invoke_correction.\n- result.confidence: number between 0 and 1.\n- result.visual_evidence: short string grounded in the image.\n- result.stuck_evidence: short string or null.\n- result.recovery_object: the single object that recovery should re-grasp /\n  act on to get the task back on track. You MUST name it using the exact\n  target-object wording from the task instruction (the thing to be picked\n  up / placed), e.g. for \"pick up the ketchup and place it in the basket\"\n  output \"ketchup\" -- NOT a free-form visual label like \"the orange juice\"\n  and NOT the destination/container (\"basket\"). Copy the noun phrase from\n  the instruction even if the on-screen object looks ambiguous among layout\n  distractors. Null only when status is not failed or no object applies.\n- result.placed_object: free-form visual label of the object currently\n  inside/at the target location, judged from the pixels (e.g. \"orange\n  box\", \"dark bottle\"), or null if nothing is in the destination yet.\n  Required (non-null) whenever status is success.\n- result.placed_matches_instruction: boolean -- true only when\n  placed_object is confidently the SAME physical object the instruction\n  asks to place. Required whenever status is success; success without\n  placed_object and placed_matches_instruction=true will be ignored.\n- result.recovery_point: the approximate location of that recovery_object\n  in the MOST RECENT image, as [x, y] normalized to 0..1 (x = fraction of\n  image width from the left edge, y = fraction of image height from the\n  top edge). This is a coarse pointer used to disambiguate which physical\n  instance to re-grasp when several look-alike objects are present, so aim\n  at the center of the correct object; it does NOT need to be pixel-exact.\n  Use null when status is not failed or recovery_object is null.\n- error: string or null.\n"
+      },
+      "proprio_drop_enabled": false,
+      "stuck_force_failed_polls": 0,
+      "vlm": {
+        "api_key": "unused",
+        "base_url": "http://127.0.0.1:9/v1",
+        "max_tokens": 512,
+        "model": "qwen/qwen3-vl-32b-instruct",
+        "provider": "openrouter",
+        "temperature": 0.0,
+        "timeout_s": 30.0
+      }
+    }
+  }
+}

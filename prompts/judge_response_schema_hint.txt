@@ -1,0 +1,2 @@
+Reply with STRICT JSON ONLY (no markdown fence, no prose) matching:
+{"status":"running|success|failed|cancelled","result":{"planner_action":"continue_observing|advance_to_next_task|invoke_correction","confidence":<number 0..1>,"visual_evidence":<string>,"stuck_evidence":<string|null>,"revealed_contents":<string|null>,"scene_update_required":<boolean>,"recovery_object":<string|null>,"recovery_point":<[x,y]|null>},"error":<string|null>}

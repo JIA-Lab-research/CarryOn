@@ -1,0 +1,61 @@
+# Appearance phrases derived from simulator-identified object crops.
+# Grounding priority: reflection prompts, catalog phrases, then the raw hint.
+
+alphabet_soup:
+  # Cylindrical metal can with blue upper half and yellow lower half, roughly same height as nearby milk carton.
+  - "alphabet soup can"
+  - "blue and yellow can"
+  - "short soup can"
+
+cream_cheese:
+  # small rectangular box with blue circular logo on white background, smaller than nearby cans and bottles
+  - "cream cheese box"
+  - "small blue box"
+  - "rectangular white box"
+  - "blue labeled box"
+
+salad_dressing:
+  # Tall, slightly curved plastic bottle with a dark green cap and white label, medium-sized compared to surrounding boxes and containers.
+  - "salad dressing bottle"
+  - "green cap bottle"
+  - "white label bottle"
+
+bbq_sauce:
+  # Tall, slender brown plastic bottle with red and yellow label, standing upright on tiled floor, roughly same height as nearby cans.
+  - "bbq sauce bottle"
+  - "short brown bottle"
+
+ketchup:
+  # Tall, slightly curved plastic bottle with a silver cap and red-orange body, about the height of a coffee mug.
+  - "ketchup bottle"
+  - "small orange bottle"
+
+tomato_sauce:
+  # Cylindrical metal can with red and green label featuring tomato graphics, medium size relative to nearby bottles and boxes.
+  - "tomato sauce can"
+  - "red and green can"
+  - "short metal can"
+
+butter:
+  # Small rectangular box with orange and white labeling, slightly taller than wide, sitting on a tiled surface among other kitchen items.
+  - "butter box"
+  - "small orange box"
+  - "rectangular butter package"
+
+milk:
+  # Tall rectangular carton with red and white label and cow graphic, roughly same height as nearby cans but wider.
+  - "milk carton"
+  - "red and white milk box"
+  - "tall milk container"
+
+chocolate_pudding:
+  # small rectangular brown box, similar in size to nearby cans and bottles
+  - "chocolate pudding"
+  - "brown pudding box"
+  - "small brown box"
+
+orange_juice:
+  # Tall rectangular carton with orange and yellow labeling and a large orange slice image, roughly the same height as nearby cans but wider.
+  - "orange juice carton"
+  - "tall orange carton"
+  - "orange juice box"

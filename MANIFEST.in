@@ -1,0 +1,7 @@
+include README.md REPRODUCING.md LICENSE NOTICE THIRD_PARTY_NOTICES.md
+recursive-include experiments *
+recursive-include prompts *
+recursive-include requirements *
+recursive-include scripts *
+recursive-include third_party *
+global-exclude __pycache__ *.py[cod]

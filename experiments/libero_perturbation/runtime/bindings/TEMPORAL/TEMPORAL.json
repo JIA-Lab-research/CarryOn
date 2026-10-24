@@ -1,0 +1,30 @@
+{
+  "max_tokens": 512,
+  "messages": [
+    {
+      "content": "Compare the supplied time-labelled images in chronological order: PREVIOUS_1 is earlier than CURRENT. Use the following early-intervention heuristic, which intentionally permits false positives. If PREVIOUS_1 visibly shows the gripper closed on an object, and CURRENT shows the gripper open or no longer closed around that object, return current_grasp_state=VISIBLE_GRASP_FAILURE and earlier_failure_visible=true. This temporal rule takes priority over an interpretation of current normal progress. Do not require seeing the object in mid-fall, checking whether release was a normal placement, or waiting for another grasp attempt to fail. A new approach or retry does not erase the earlier visible change. Do not add other exceptions or qualification gates to this rule. This classification is an intervention heuristic, not proof of physical object loss or certified failure evidence. If the visual relationship cannot be discerned, do not invent it: return INSUFFICIENT_EVIDENCE and explain what is not visible. Otherwise report NORMAL_PROGRESS when the supplied images show ongoing progress without the specified temporal change. Commanded closure or a measured jaw distance alone does not establish that an object was held. Cite the supplied frame IDs and distinguish visible observations from hypotheses. Do not decide whether recovery should take over.\nReturn only JSON with current_grasp_state (VISIBLE_GRASP_FAILURE, NORMAL_PROGRESS, INSUFFICIENT_EVIDENCE), current_evidence (string), evidence_frame_ids (array of supplied frame IDs), earlier_failure_visible (true/false/null; null if not decidable), uncertainty (string/null). Failure and progress evidence must refer to the supplied time-labelled frames. Do not decide whether recovery should take over.",
+      "role": "system"
+    },
+    {
+      "role": "user",
+      "content": [
+        {
+          "type": "text",
+          "text": "{\"proprioception\": {\"note\": \"Measured jaw opening only; changes may suggest empty grasp or release. Width does not establish object identity or task failure. Decide from the available visual evidence; request errors are not failed decisions.\", \"width_m_definition\": \"width_m is the measured distance between the two gripper fingers in metres (w_meas), not a commanded target. An increase in this distance is the opening direction; a decrease is the closing direction. A change in this distance alone does not establish vertical lifting, object identity, holding, or loss.\"}}"
+        }
+      ]
+    }
+  ],
+  "model": "qwen/qwen3-vl-32b-instruct",
+  "provider": {
+    "allow_fallbacks": false,
+    "data_collection": "deny",
+    "order": [
+      "Alibaba"
+    ]
+  },
+  "response_format": {
+    "type": "json_object"
+  },
+  "temperature": 0.0
+}

@@ -1,0 +1,125 @@
+{
+  "schema": "carryon-safety-runtime-sources/v1",
+  "files": [
+    {
+      "path": "adapter/chunk_controller.py"
+    },
+    {
+      "path": "adapter/load_method.py"
+    },
+    {
+      "path": "adapter/simulation_driver.py"
+    },
+    {
+      "path": "frozen_dependencies/base/carryon/recovery/primitives.py"
+    },
+    {
+      "path": "frozen_dependencies/base/carryon/recovery/schema.py"
+    },
+    {
+      "path": "shield/carryon/planner/data/grounding_vocabulary.json"
+    },
+    {
+      "path": "shield/safety_eval/shield_adapter.py"
+    },
+    {
+      "path": "shield/carryon/recovery/geometry.py"
+    },
+    {
+      "path": "shield/carryon/recovery/molmo_runner.py"
+    },
+    {
+      "path": "shield/carryon/recovery/sam3_runner.py"
+    },
+    {
+      "path": "shield/safety_eval/cb3_runtime.py"
+    },
+    {
+      "path": "shield/safety_eval/cb3_sam_worker.py"
+    },
+    {
+      "path": "shield/safety_eval/contact_graph.py"
+    },
+    {
+      "path": "shield/safety_eval/degraded_record.py"
+    },
+    {
+      "path": "shield/safety_eval/destination_cb1.py"
+    },
+    {
+      "path": "shield/safety_eval/destination_cb3.py"
+    },
+    {
+      "path": "shield/safety_eval/franka_attach32.yml"
+    },
+    {
+      "path": "shield/safety_eval/phase_latch.py"
+    },
+    {
+      "path": "shield/safety_eval/relational_grounding.py"
+    },
+    {
+      "path": "shield/safety_eval/relational_scene.py"
+    },
+    {
+      "path": "shield/safety_eval/relational_shield.py"
+    },
+    {
+      "path": "shield/safety_eval/rollout_predictor.py"
+    },
+    {
+      "path": "predictor/terminal_geometry.py"
+    },
+    {
+      "path": "predictor/online_predictor.py"
+    },
+    {
+      "path": "predictor/response_model.py"
+    },
+    {
+      "path": "shield/carryon/planner/instruction_roles.py"
+    },
+    {
+      "path": "shield/carryon/planner/data/instructions.json"
+    },
+    {
+      "path": "shield/carryon/resources.py"
+    },
+    {
+      "path": "shield/carryon/libero_safety/contracts.py"
+    },
+    {
+      "path": "shield/carryon/recovery/schema.py"
+    },
+    {
+      "path": "shield/carryon/recovery/primitives.py"
+    },
+    {
+      "path": "adapter/runtime.py"
+    },
+    {
+      "path": "support/safety_eval/constraint_timeline.py"
+    },
+    {
+      "path": "support/safety_eval/camera_calibration.py"
+    },
+    {
+      "path": "support/phase1_blind_supervisor.py"
+    },
+    {
+      "path": "support/phase1_protocol4_channel.py"
+    },
+    {
+      "path": "support/score_execution_window.py"
+    },
+    {
+      "path": "adapter/pi05_control.py"
+    },
+    {
+      "path": "services/serve_pi05.py"
+    },
+    {
+      "path": "adapter/openvla_policy.py"
+    }
+  ]
+}

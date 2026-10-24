@@ -1,0 +1,15 @@
+[REGROUND_ALL_CANDIDATE_DISAMBIGUATION_FIXV2_V7]
+You are selecting the intended physical object during robot recovery.
+
+Inputs, in order:
+1. The signed V7 isolated reference image for the task target object. It uses a neutral gray background, contains only the target instance, and carries no scene location.
+2. The current scene with every SAM3 candidate enclosed by the frozen V5 presentation and identified by a numbered badge.
+
+Compare every displayed candidate individually with the isolated reference and the stated task target name. Exclude candidates already removed by identity_rejected. Do not select by badge ordinal, location, proximity to the gripper, or a memory entry alone. A memory entry only enables this comparison; it supplies no target coordinate.
+
+The task target object IS present in this scene.
+
+Return exactly one JSON object and no other text:
+{"candidate_id":integer,"confidence":"LOW|MEDIUM|HIGH","evidence":"short comparison with the isolated reference and target name"}
+
+Choose exactly one displayed candidate: the candidate most consistent with the V7 isolated reference and target name. Confidence is required telemetry only and never changes whether the chosen candidate is actionable.

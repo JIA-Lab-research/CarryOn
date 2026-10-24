@@ -1,0 +1,80 @@
+# RoboLab endpoint-selection catalog with mock transports.
+# Evaluation records the selected endpoint; physical manipulation is not executed.
+# Descriptions identify station roles without revealing object inventories.
+endpoints:
+  - name: franka_garage_bench
+    transport: mock
+    address: "mock://franka_garage_bench"
+    description: |
+      The garage workbench -- where tools are kept and repairs get done.
+      A Franka arm reaches the whole bench surface.
+    tags: [arm, franka, tabletop, sim, station]
+    # top level on purpose: the loader gathers unknown keys into .extra
+    cameras: [garage_cam]
+
+  - name: franka_dining_table
+    transport: mock
+    address: "mock://franka_dining_table"
+    description: |
+      The dining table -- where the household eats and clears up after meals.
+      A Franka arm reaches the whole table surface.
+    tags: [arm, franka, tabletop, sim, station]
+    # top level on purpose: the loader gathers unknown keys into .extra
+    cameras: [dining_cam]
+
+  - name: franka_kitchen_counter
+    transport: mock
+    address: "mock://franka_kitchen_counter"
+    description: |
+      The kitchen counter -- the food-prep surface in the home's kitchen area.
+      A Franka arm reaches the whole counter surface.
+    tags: [arm, franka, tabletop, sim, station]
+    # top level on purpose: the loader gathers unknown keys into .extra
+    cameras: [kitchen_cam]
+
+  - name: franka_study_desk
+    transport: mock
+    address: "mock://franka_study_desk"
+    description: |
+      The study desk -- the computer workstation in the home's study corner.
+      A Franka arm reaches the whole desk surface.
+    tags: [arm, franka, tabletop, sim, station]
+    # top level on purpose: the loader gathers unknown keys into .extra
+    cameras: [desk_cam]
+
+  # Register check_endpoint and its scene-memory planning rule.
+  - name: check_endpoint
+    transport: local
+    address: check_endpoint
+    description: |
+      Look at ONE endpoint's own camera and answer whether a described object
+      is presently visible there. Inputs:
+      {"endpoint": "<endpoint name>", "target_object": "<what to look for>"}
+      Optional: {"description": "<distinguishing visual detail>"}.
+      Returns {"present": bool, "confidence": float, "evidence": "<what was
+      seen>"}. It answers about the named endpoint ONLY -- it can neither
+      confirm nor deny anything about any other place.
+    tags: [perception, builtin, check]
+
+  - name: update_user_memory
+    transport: local
+    address: update_user_memory
+    description: |
+      Record a durable fact about the user in their profile. For an
+      observation-driven write -- a fact established by LOOKING rather than by
+      what the user said -- the only key you may set is
+      `entity:<target>.location`, and only after the target has been confirmed
+      present at that endpoint by TWO independent checks (ADR 0009).
+      Inputs: {"facts": {"entity:<target>.location": "<endpoint name>"}}
+    tags: [memory, builtin]
+
+  # Register the skill that persists observed scene contents.
+  - name: update_scene
+    transport: local
+    address: update_scene
+    description: |
+      Record what a place currently holds, so a later turn does not have to
+      look again. Inputs: {"location": "<endpoint name>",
+      "objects": ["<object>", ...]} plus an optional
+      "description". Write it once a check has established it.
+    tags: [memory, builtin]

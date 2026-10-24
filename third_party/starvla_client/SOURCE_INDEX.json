@@ -1,0 +1,21 @@
+{
+  "source": "https://github.com/starVLA/starVLA",
+  "source_revision": "1e2f03a982f3cbc24ac8ad796707a639db73d7b7",
+  "files": [
+    {
+      "path": "examples/LIBERO/eval_files/model2libero_interface.py"
+    },
+    {
+      "path": "examples/SimplerEnv/eval_files/adaptive_ensemble.py"
+    },
+    {
+      "path": "deployment/model_server/tools/websocket_policy_client.py"
+    },
+    {
+      "path": "deployment/model_server/tools/msgpack_numpy.py"
+    },
+    {
+      "path": "LICENSE"
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "camera_wh": [
+    864,
+    480
+  ],
+  "cells": {
+    "bagel": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "dining",
+      "suppression": {}
+    },
+    "banana": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "suppressed"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "garage",
+      "suppression": {
+        "dining": [
+          "banana",
+          "banana_01"
+        ]
+      }
+    },
+    "birdhouse": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "kitchen",
+      "suppression": {}
+    },
+    "hammer": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "garage",
+      "suppression": {}
+    },
+    "keyboard": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "desk",
+      "suppression": {}
+    },
+    "measuring_cup": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "kitchen",
+      "suppression": {}
+    },
+    "mustard": {
+      "frames": {
+        "desk": {
+          "kind": "base"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "desk",
+      "suppression": {}
+    },
+    "rubiks": {
+      "frames": {
+        "desk": {
+          "kind": "suppressed"
+        },
+        "dining": {
+          "kind": "base"
+        },
+        "garage": {
+          "kind": "base"
+        },
+        "kitchen": {
+          "kind": "base"
+        }
+      },
+      "host_station": "dining",
+      "suppression": {
+        "desk": [
+          "rubiks_cube"
+        ]
+      }
+    }
+  },
+  "schema": "robolab-frame-library/v1",
+  "why_no_seed_axis": "no station task defines randomisation events, and a stable home is constitutive of the personalization setting; repeats measure policy variance, not layout robustness",
+  "world_is_fixed": true
+}

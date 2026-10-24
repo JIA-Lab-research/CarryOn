@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=77", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "carryon"
+version = "0.1.0"
+description = "CarryOn: a dual-loop harness for personalized and reliable robot assistance"
+readme = "README.md"
+license = "Apache-2.0"
+license-files = ["LICENSE", "NOTICE", "third_party/*LICENSE*"]
+requires-python = ">=3.10"
+dependencies = ["httpx>=0.27", "aiohttp>=3.9", "PyYAML>=6.0", "jsonschema>=4.21", "numpy>=1.24", "Pillow>=10"]
+
+[project.optional-dependencies]
+models = ["anthropic>=0.34", "openrouter>=0.1", "requests>=2.31"]
+
+[project.scripts]
+carryon = "carryon.release_cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+include = ["carryon*"]
+
+[tool.setuptools.package-data]
+"carryon.planner" = ["data/*.json"]
+"carryon.experiments.reflection" = ["prompts/*.txt", "prompts/*.json"]

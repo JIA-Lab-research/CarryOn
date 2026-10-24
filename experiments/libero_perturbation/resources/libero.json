@@ -1,0 +1,1762 @@
+{
+  "files": [
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_base/basin_faucet_base.mtl"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_base/basin_faucet_base.obj"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_base/basin_faucet_base.xml"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_base/basin_faucet_base_col.obj"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_base/visual/basin_faucet_base_vis.msh"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_movable/basin_faucet_movable.mtl"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_movable/basin_faucet_movable.obj"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_movable/basin_faucet_movable.xml"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_movable/basin_faucet_movable_col.obj"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/basin_faucet_movable/visual/basin_faucet_movable_vis.msh"
+    },
+    {
+      "path": "articulated_objects/basin_faucet/ceramic.png"
+    },
+    {
+      "path": "articulated_objects/basin_faucet.xml"
+    },
+    {
+      "path": "articulated_objects/faucet.xml"
+    },
+    {
+      "path": "articulated_objects/flat_stove/button_dark_texture.png"
+    },
+    {
+      "path": "articulated_objects/flat_stove/metal.png"
+    },
+    {
+      "path": "articulated_objects/flat_stove/steel-scratched.png"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_burner/burnerplate.stl"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_base/steel-scratched.png"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_base/stove_knob_base.mtl"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_base/stove_knob_base.obj"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_base/stove_knob_base.xml"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_base/stove_knob_base_col.obj"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_base/visual/stove_knob_base_vis.msh"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/button_dark_texture.png"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/steel-scratched.png"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/stove_knob_button.mtl"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/stove_knob_button.obj"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/stove_knob_button.xml"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/stove_knob_button_col.obj"
+    },
+    {
+      "path": "articulated_objects/flat_stove/stove_knob_button/visual/stove_knob_button_vis.msh"
+    },
+    {
+      "path": "articulated_objects/flat_stove.xml"
+    },
+    {
+      "path": "articulated_objects/meshes/faucet/faucetbase.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/faucet/faucethandle1.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/faucet/faucethead.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/micro.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/microbutton.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/microdoor.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/microefeet.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/microfeet.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/microhandle.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/microwave/microwindow.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/window_base.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/window_frame.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/window_h_base.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/window_h_frame.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowa_frame.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowa_glass.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowa_h_frame.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowa_h_glass.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowb_frame.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowb_glass.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowb_h_frame.stl"
+    },
+    {
+      "path": "articulated_objects/meshes/window/windowb_h_glass.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/micro.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/microbutton.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/microdoor.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/microefeet.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/microfeet.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/microhandle.stl"
+    },
+    {
+      "path": "articulated_objects/microwave/microwindow.stl"
+    },
+    {
+      "path": "articulated_objects/microwave.xml"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/base.xml"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/base_col.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/base_vis.mtl"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/base_vis.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/base_vis.xml"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/dark-wood.png"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/base/visual/base_vis_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_high/drawer_high.mtl"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_high/drawer_high.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_high/drawer_high.xml"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_high/drawer_high_col.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_high/visual/drawer_high_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_low/drawer_low.mtl"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_low/drawer_low.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_low/drawer_low.xml"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_low/drawer_low_col.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_low/visual/drawer_low_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_middle/drawer_middle.mtl"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_middle/drawer_middle.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_middle/drawer_middle.xml"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_middle/drawer_middle_col.obj"
+    },
+    {
+      "path": "articulated_objects/short_cabinet/drawer_middle/visual/drawer_middle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_cabinet.xml"
+    },
+    {
+      "path": "articulated_objects/short_fridge/base/base.mtl"
+    },
+    {
+      "path": "articulated_objects/short_fridge/base/base.obj"
+    },
+    {
+      "path": "articulated_objects/short_fridge/base/base.xml"
+    },
+    {
+      "path": "articulated_objects/short_fridge/base/base_col.obj"
+    },
+    {
+      "path": "articulated_objects/short_fridge/base/visual/base_layers_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_fridge/base/visual/base_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_fridge/door/door.mtl"
+    },
+    {
+      "path": "articulated_objects/short_fridge/door/door.obj"
+    },
+    {
+      "path": "articulated_objects/short_fridge/door/door.xml"
+    },
+    {
+      "path": "articulated_objects/short_fridge/door/door_col.obj"
+    },
+    {
+      "path": "articulated_objects/short_fridge/door/visual/door_vis.msh"
+    },
+    {
+      "path": "articulated_objects/short_fridge/metal.png"
+    },
+    {
+      "path": "articulated_objects/short_fridge.xml"
+    },
+    {
+      "path": "articulated_objects/slide_cabinet.xml"
+    },
+    {
+      "path": "articulated_objects/textures/metal1.png"
+    },
+    {
+      "path": "articulated_objects/textures/metal2.png"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/metal.png"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_base/visual/white_cabinet_base_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_bottom/visual/white_cabinet_bottom_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_bottom_handle/visual/white_cabinet_bottom_handle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_middle/visual/white_cabinet_middle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_middle_handle/visual/white_cabinet_middle_handle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_top/visual/white_cabinet_top_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_cabinet_top_handle/visual/white_cabinet_top_handle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/white_cabinet/white_wood.png"
+    },
+    {
+      "path": "articulated_objects/white_cabinet.xml"
+    },
+    {
+      "path": "articulated_objects/window.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/dark_fine_wood.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/metal.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_base/dark_fine_wood.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_base/visual/wooden_cabinet_base_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_base/wooden_cabinet_base.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_base/wooden_cabinet_base.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_base/wooden_cabinet_base.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_base/wooden_cabinet_base_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom/dark_fine_wood.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom/visual/wooden_cabinet_bottom_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom/wooden_cabinet_bottom.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom/wooden_cabinet_bottom.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom/wooden_cabinet_bottom.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom/wooden_cabinet_bottom_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom_handle/dark_fine_wood.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom_handle/visual/wooden_cabinet_bottom_handle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom_handle/wooden_cabinet_bottom_handle.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom_handle/wooden_cabinet_bottom_handle.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom_handle/wooden_cabinet_bottom_handle.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_bottom_handle/wooden_cabinet_bottom_handle_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle/dark_fine_wood.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle/visual/wooden_cabinet_middle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle/wooden_cabinet_middle.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle/wooden_cabinet_middle.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle/wooden_cabinet_middle.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle/wooden_cabinet_middle_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle_handle/metal.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle_handle/visual/wooden_cabinet_middle_handle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle_handle/wooden_cabinet_middle_handle.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle_handle/wooden_cabinet_middle_handle.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle_handle/wooden_cabinet_middle_handle.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_middle_handle/wooden_cabinet_middle_handle_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top/dark_fine_wood.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top/visual/wooden_cabinet_top_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top/wooden_cabinet_top.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top/wooden_cabinet_top.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top/wooden_cabinet_top.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top/wooden_cabinet_top_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top_handle/metal.png"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top_handle/visual/wooden_cabinet_top_handle_vis.msh"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top_handle/wooden_cabinet_top_handle.mtl"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top_handle/wooden_cabinet_top_handle.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top_handle/wooden_cabinet_top_handle.xml"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet/wooden_cabinet_top_handle/wooden_cabinet_top_handle_col.obj"
+    },
+    {
+      "path": "articulated_objects/wooden_cabinet.xml"
+    },
+    {
+      "path": "scenes/black_book/black_book.mtl"
+    },
+    {
+      "path": "scenes/black_book/black_book.obj"
+    },
+    {
+      "path": "scenes/black_book/black_book.xml"
+    },
+    {
+      "path": "scenes/black_book/black_book_texture.png"
+    },
+    {
+      "path": "scenes/black_book/collision/black_book_ch.stl"
+    },
+    {
+      "path": "scenes/black_book/visual/black_book_vis.msh"
+    },
+    {
+      "path": "scenes/coffee_table_seats/FabricLeatherBuffaloRustic001_COL_VAR1_4K.png"
+    },
+    {
+      "path": "scenes/coffee_table_seats/coffee_table_seats.mtl"
+    },
+    {
+      "path": "scenes/coffee_table_seats/coffee_table_seats.obj"
+    },
+    {
+      "path": "scenes/coffee_table_seats/coffee_table_seats.xml"
+    },
+    {
+      "path": "scenes/coffee_table_seats/collision/coffee_table_seats_ch.stl"
+    },
+    {
+      "path": "scenes/coffee_table_seats/visual/coffee_table_seats_vis.msh"
+    },
+    {
+      "path": "scenes/desk/desk.mtl"
+    },
+    {
+      "path": "scenes/desk/desk.obj"
+    },
+    {
+      "path": "scenes/desk/desk.xml"
+    },
+    {
+      "path": "scenes/desk/desk_col.obj"
+    },
+    {
+      "path": "scenes/desk/desk_texture.png"
+    },
+    {
+      "path": "scenes/desk/visual/desk_vis.msh"
+    },
+    {
+      "path": "scenes/floor_lamp/collision/floor_lamp_ch.stl"
+    },
+    {
+      "path": "scenes/floor_lamp/floor_lamp.mtl"
+    },
+    {
+      "path": "scenes/floor_lamp/floor_lamp.obj"
+    },
+    {
+      "path": "scenes/floor_lamp/floor_lamp.xml"
+    },
+    {
+      "path": "scenes/floor_lamp/lamp_texture.png"
+    },
+    {
+      "path": "scenes/floor_lamp/visual/floor_lamp_vis.msh"
+    },
+    {
+      "path": "scenes/fridge/collision/fridge_ch.stl"
+    },
+    {
+      "path": "scenes/fridge/fridge.mtl"
+    },
+    {
+      "path": "scenes/fridge/fridge.obj"
+    },
+    {
+      "path": "scenes/fridge/fridge.xml"
+    },
+    {
+      "path": "scenes/fridge/kitchen_fridge_background.png"
+    },
+    {
+      "path": "scenes/fridge/metal.png"
+    },
+    {
+      "path": "scenes/fridge/steel-scratched.png"
+    },
+    {
+      "path": "scenes/fridge/visual/fridge_vis.msh"
+    },
+    {
+      "path": "scenes/kitchen_background/collision/kitchen_background_ch.stl"
+    },
+    {
+      "path": "scenes/kitchen_background/kitchen_background.mtl"
+    },
+    {
+      "path": "scenes/kitchen_background/kitchen_background.obj"
+    },
+    {
+      "path": "scenes/kitchen_background/kitchen_background.png"
+    },
+    {
+      "path": "scenes/kitchen_background/kitchen_background.xml"
+    },
+    {
+      "path": "scenes/kitchen_background/visual/kitchen_background_vis.msh"
+    },
+    {
+      "path": "scenes/kitchen_background_hot_pot/collision/kitchen_background_hot_pot_ch.stl"
+    },
+    {
+      "path": "scenes/kitchen_background_hot_pot/kitchen_background_hot_pot.mtl"
+    },
+    {
+      "path": "scenes/kitchen_background_hot_pot/kitchen_background_hot_pot.obj"
+    },
+    {
+      "path": "scenes/kitchen_background_hot_pot/kitchen_background_hot_pot.xml"
+    },
+    {
+      "path": "scenes/kitchen_background_hot_pot/visual/kitchen_background_hot_pot_vis.msh"
+    },
+    {
+      "path": "scenes/kitchen_background_pot/collision/kitchen_background_pot_ch.stl"
+    },
+    {
+      "path": "scenes/kitchen_background_pot/kitchen_background_pot.mtl"
+    },
+    {
+      "path": "scenes/kitchen_background_pot/kitchen_background_pot.obj"
+    },
+    {
+      "path": "scenes/kitchen_background_pot/kitchen_background_pot.png"
+    },
+    {
+      "path": "scenes/kitchen_background_pot/kitchen_background_pot.xml"
+    },
+    {
+      "path": "scenes/kitchen_background_pot/visual/kitchen_background_pot_vis.msh"
+    },
+    {
+      "path": "scenes/kitchen_background_stove/collision/kitchen_background_stove_ch.stl"
+    },
+    {
+      "path": "scenes/kitchen_background_stove/kitchen_background_stove.mtl"
+    },
+    {
+      "path": "scenes/kitchen_background_stove/kitchen_background_stove.obj"
+    },
+    {
+      "path": "scenes/kitchen_background_stove/kitchen_background_stove.png"
+    },
+    {
+      "path": "scenes/kitchen_background_stove/kitchen_background_stove.xml"
+    },
+    {
+      "path": "scenes/kitchen_background_stove/visual/kitchen_background_stove_vis.msh"
+    },
+    {
+      "path": "scenes/libero_coffee_table_base_style.xml"
+    },
+    {
+      "path": "scenes/libero_coffee_table_blue_style.xml"
+    },
+    {
+      "path": "scenes/libero_coffee_table_warm_style.xml"
+    },
+    {
+      "path": "scenes/libero_floor_base_style.xml"
+    },
+    {
+      "path": "scenes/libero_floor_blue_style.xml"
+    },
+    {
+      "path": "scenes/libero_floor_coffee_style.xml"
+    },
+    {
+      "path": "scenes/libero_floor_warm_style.xml"
+    },
+    {
+      "path": "scenes/libero_kitchen_tabletop_base_style.xml"
+    },
+    {
+      "path": "scenes/libero_living_room_tabletop_base_style.xml"
+    },
+    {
+      "path": "scenes/libero_study_base_style.xml"
+    },
+    {
+      "path": "scenes/libero_tabletop_base_style.xml"
+    },
+    {
+      "path": "scenes/libero_tabletop_blue_style.xml"
+    },
+    {
+      "path": "scenes/libero_tabletop_warm_style.xml"
+    },
+    {
+      "path": "scenes/living_room/collision/living_room_ch.stl"
+    },
+    {
+      "path": "scenes/living_room/living_room.mtl"
+    },
+    {
+      "path": "scenes/living_room/living_room.obj"
+    },
+    {
+      "path": "scenes/living_room/living_room.xml"
+    },
+    {
+      "path": "scenes/living_room/living_room_wall_unit.png"
+    },
+    {
+      "path": "scenes/living_room/visual/living_room_vis.msh"
+    },
+    {
+      "path": "scenes/living_room_table/collision/living_room_table_ch.stl"
+    },
+    {
+      "path": "scenes/living_room_table/living_room_table.mtl"
+    },
+    {
+      "path": "scenes/living_room_table/living_room_table.obj"
+    },
+    {
+      "path": "scenes/living_room_table/living_room_table.xml"
+    },
+    {
+      "path": "scenes/living_room_table/living_room_table_col.obj"
+    },
+    {
+      "path": "scenes/living_room_table/living_room_table_texture.png"
+    },
+    {
+      "path": "scenes/living_room_table/visual/living_room_table_vis.msh"
+    },
+    {
+      "path": "scenes/office_book_shelf/ceramic.png"
+    },
+    {
+      "path": "scenes/office_book_shelf/collision/office_book_shelf_ch.stl"
+    },
+    {
+      "path": "scenes/office_book_shelf/office_book_shelf.mtl"
+    },
+    {
+      "path": "scenes/office_book_shelf/office_book_shelf.obj"
+    },
+    {
+      "path": "scenes/office_book_shelf/office_book_shelf.xml"
+    },
+    {
+      "path": "scenes/office_book_shelf/visual/office_book_shelf_vis.msh"
+    },
+    {
+      "path": "scenes/plant/collision/plant_ch.stl"
+    },
+    {
+      "path": "scenes/plant/plant.mtl"
+    },
+    {
+      "path": "scenes/plant/plant.obj"
+    },
+    {
+      "path": "scenes/plant/plant.xml"
+    },
+    {
+      "path": "scenes/plant/plant_texture.png"
+    },
+    {
+      "path": "scenes/plant/visual/plant_vis.msh"
+    },
+    {
+      "path": "scenes/short_coffee_table/Marble062_COL_4K.png"
+    },
+    {
+      "path": "scenes/short_coffee_table/collision/short_coffee_table_ch.stl"
+    },
+    {
+      "path": "scenes/short_coffee_table/short_coffee_table.mtl"
+    },
+    {
+      "path": "scenes/short_coffee_table/short_coffee_table.obj"
+    },
+    {
+      "path": "scenes/short_coffee_table/short_coffee_table.xml"
+    },
+    {
+      "path": "scenes/short_coffee_table/visual/short_coffee_table_vis.msh"
+    },
+    {
+      "path": "scenes/study_background/collision/study_background_ch.stl"
+    },
+    {
+      "path": "scenes/study_background/study_background.mtl"
+    },
+    {
+      "path": "scenes/study_background/study_background.obj"
+    },
+    {
+      "path": "scenes/study_background/study_background.png"
+    },
+    {
+      "path": "scenes/study_background/study_background.xml"
+    },
+    {
+      "path": "scenes/study_background/visual/study_background_vis.msh"
+    },
+    {
+      "path": "scenes/study_wall_painting/collision/study_wall_painting_ch.stl"
+    },
+    {
+      "path": "scenes/study_wall_painting/study_wall_painting.mtl"
+    },
+    {
+      "path": "scenes/study_wall_painting/study_wall_painting.obj"
+    },
+    {
+      "path": "scenes/study_wall_painting/study_wall_painting.png"
+    },
+    {
+      "path": "scenes/study_wall_painting/study_wall_painting.xml"
+    },
+    {
+      "path": "scenes/study_wall_painting/visual/study_wall_painting_vis.msh"
+    },
+    {
+      "path": "scenes/wall_decoration/visual/wall_decoration_vis.msh"
+    },
+    {
+      "path": "scenes/wall_decoration/wall_decoration.mtl"
+    },
+    {
+      "path": "scenes/wall_decoration/wall_decoration.obj"
+    },
+    {
+      "path": "scenes/wall_decoration/wall_decoration_texture.jpg"
+    },
+    {
+      "path": "scenes/wall_decoration/wall_decoration_texture.png"
+    },
+    {
+      "path": "serving_region.xml"
+    },
+    {
+      "path": "stable_hope_objects/alphabet_soup/alphabet_soup.xml"
+    },
+    {
+      "path": "stable_hope_objects/alphabet_soup/alphabet_soup_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/alphabet_soup/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/alphabet_soup/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/alphabet_soup/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/alphabet_soup/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/bbq_sauce/bbq_sauce.mtl"
+    },
+    {
+      "path": "stable_hope_objects/bbq_sauce/bbq_sauce.obj"
+    },
+    {
+      "path": "stable_hope_objects/bbq_sauce/bbq_sauce.xml"
+    },
+    {
+      "path": "stable_hope_objects/bbq_sauce/hope_bbq_coll.obj"
+    },
+    {
+      "path": "stable_hope_objects/bbq_sauce/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/bbq_sauce/visual/bbq_sauce_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/butter/butter.mtl"
+    },
+    {
+      "path": "stable_hope_objects/butter/butter.obj"
+    },
+    {
+      "path": "stable_hope_objects/butter/butter.xml"
+    },
+    {
+      "path": "stable_hope_objects/butter/hope_butter_coll.obj"
+    },
+    {
+      "path": "stable_hope_objects/butter/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/butter/visual/butter_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/chocolate_pudding/chocolate_pudding.xml"
+    },
+    {
+      "path": "stable_hope_objects/chocolate_pudding/chocolate_pudding_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/chocolate_pudding/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/chocolate_pudding/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/chocolate_pudding/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/chocolate_pudding/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/cookies/cookies.mtl"
+    },
+    {
+      "path": "stable_hope_objects/cookies/cookies.xml"
+    },
+    {
+      "path": "stable_hope_objects/cookies/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/cookies/visual/cookies_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/cream_cheese/cream_cheese.mtl"
+    },
+    {
+      "path": "stable_hope_objects/cream_cheese/cream_cheese.obj"
+    },
+    {
+      "path": "stable_hope_objects/cream_cheese/cream_cheese.xml"
+    },
+    {
+      "path": "stable_hope_objects/cream_cheese/hope_cream_cheese_coll.obj"
+    },
+    {
+      "path": "stable_hope_objects/cream_cheese/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/cream_cheese/visual/cream_cheese_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/ketchup/ketchup.xml"
+    },
+    {
+      "path": "stable_hope_objects/ketchup/ketchup_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/ketchup/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/ketchup/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/ketchup/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/ketchup/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/macaroni_and_cheese/macaroni_and_cheese.xml"
+    },
+    {
+      "path": "stable_hope_objects/macaroni_and_cheese/macaroni_and_cheese_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/macaroni_and_cheese/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/macaroni_and_cheese/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/macaroni_and_cheese/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/macaroni_and_cheese/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/milk/collision/textured_ch.stl"
+    },
+    {
+      "path": "stable_hope_objects/milk/milk.xml"
+    },
+    {
+      "path": "stable_hope_objects/milk/milk_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/milk/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/milk/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/milk/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/milk/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/new_salad_dressing/new_salad_dressing.xml"
+    },
+    {
+      "path": "stable_hope_objects/new_salad_dressing/salad_dressing_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/new_salad_dressing/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/new_salad_dressing/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/new_salad_dressing/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/new_salad_dressing/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/collision/textured_ch.stl"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/orange_juice.xml"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/orange_juice_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/orange_juice/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/popcorn/popcorn.mtl"
+    },
+    {
+      "path": "stable_hope_objects/popcorn/popcorn.obj"
+    },
+    {
+      "path": "stable_hope_objects/popcorn/popcorn.xml"
+    },
+    {
+      "path": "stable_hope_objects/popcorn/popcorn_coll.obj"
+    },
+    {
+      "path": "stable_hope_objects/popcorn/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/popcorn/visual/popcorn_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/salad_dressing/salad_dressing.xml"
+    },
+    {
+      "path": "stable_hope_objects/salad_dressing/salad_dressing_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/salad_dressing/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/salad_dressing/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/salad_dressing/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/salad_dressing/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_hope_objects/tomato_sauce/texture_map.png"
+    },
+    {
+      "path": "stable_hope_objects/tomato_sauce/textured.mtl"
+    },
+    {
+      "path": "stable_hope_objects/tomato_sauce/textured.obj"
+    },
+    {
+      "path": "stable_hope_objects/tomato_sauce/tomato_sauce.xml"
+    },
+    {
+      "path": "stable_hope_objects/tomato_sauce/tomato_sauce_col.obj"
+    },
+    {
+      "path": "stable_hope_objects/tomato_sauce/visual/textured_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/akita_black_bowl/akita_black_bowl.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/akita_black_bowl/akita_black_bowl.obj"
+    },
+    {
+      "path": "stable_scanned_objects/akita_black_bowl/akita_black_bowl.xml"
+    },
+    {
+      "path": "stable_scanned_objects/akita_black_bowl/akita_black_bowl_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/akita_black_bowl/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/akita_black_bowl/visual/akita_black_bowl_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_base/basin_faucet_base.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_base/basin_faucet_base.obj"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_base/basin_faucet_base.xml"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_base/basin_faucet_base_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_base/visual/basin_faucet_base_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_movable/basin_faucet_movable.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_movable/basin_faucet_movable.obj"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_movable/basin_faucet_movable.xml"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_movable/basin_faucet_movable_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/basin_faucet_movable/visual/basin_faucet_movable_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/basket/basket.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/basket/basket.obj"
+    },
+    {
+      "path": "stable_scanned_objects/basket/basket.xml"
+    },
+    {
+      "path": "stable_scanned_objects/basket/basket_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/basket/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/basket/visual/basket_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/bowl.zip"
+    },
+    {
+      "path": "stable_scanned_objects/chefmate_8_frypan/chefmate_8_frypan.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/chefmate_8_frypan/chefmate_8_frypan.obj"
+    },
+    {
+      "path": "stable_scanned_objects/chefmate_8_frypan/chefmate_8_frypan.xml"
+    },
+    {
+      "path": "stable_scanned_objects/chefmate_8_frypan/chefmate_8_frypan_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/chefmate_8_frypan/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/chefmate_8_frypan/visual/chefmate_8_frypan_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/glazed_rim_porcelain_ramekin/glazed_rim_porcelain_ramekin.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/glazed_rim_porcelain_ramekin/glazed_rim_porcelain_ramekin.obj"
+    },
+    {
+      "path": "stable_scanned_objects/glazed_rim_porcelain_ramekin/glazed_rim_porcelain_ramekin.xml"
+    },
+    {
+      "path": "stable_scanned_objects/glazed_rim_porcelain_ramekin/glazed_rim_porcelain_ramekin_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/glazed_rim_porcelain_ramekin/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/glazed_rim_porcelain_ramekin/visual/glazed_rim_porcelain_ramekin_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/plate/model.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/plate/model.obj"
+    },
+    {
+      "path": "stable_scanned_objects/plate/plate.xml"
+    },
+    {
+      "path": "stable_scanned_objects/plate/plate_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/plate/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/plate/visual/model_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/red_bowl/ceramic_bowl_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/red_bowl/model.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/red_bowl/model.obj"
+    },
+    {
+      "path": "stable_scanned_objects/red_bowl/red_bowl.xml"
+    },
+    {
+      "path": "stable_scanned_objects/red_bowl/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/red_bowl/visual/model_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/simple_rack/simple_rack.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/simple_rack/simple_rack.obj"
+    },
+    {
+      "path": "stable_scanned_objects/simple_rack/simple_rack.xml"
+    },
+    {
+      "path": "stable_scanned_objects/simple_rack/simple_rack_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/simple_rack/visual/simple_rack_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/white_bowl/ceramic_bowl_col.obj"
+    },
+    {
+      "path": "stable_scanned_objects/white_bowl/model.mtl"
+    },
+    {
+      "path": "stable_scanned_objects/white_bowl/model.obj"
+    },
+    {
+      "path": "stable_scanned_objects/white_bowl/texture.png"
+    },
+    {
+      "path": "stable_scanned_objects/white_bowl/visual/model_vis.msh"
+    },
+    {
+      "path": "stable_scanned_objects/white_bowl/white_bowl.xml"
+    },
+    {
+      "path": "textures/brown_ceramic_tile.png"
+    },
+    {
+      "path": "textures/canvas_sky_blue.png"
+    },
+    {
+      "path": "textures/capriccio_sky.png"
+    },
+    {
+      "path": "textures/ceramic.png"
+    },
+    {
+      "path": "textures/cream-plaster.png"
+    },
+    {
+      "path": "textures/dapper_gray_floor.png"
+    },
+    {
+      "path": "textures/dark_blue_wall.png"
+    },
+    {
+      "path": "textures/dark_floor_texture.png"
+    },
+    {
+      "path": "textures/dark_gray_plaster.png"
+    },
+    {
+      "path": "textures/dark_green_plaster_wall.png"
+    },
+    {
+      "path": "textures/gray_ceramic_tile.png"
+    },
+    {
+      "path": "textures/gray_floor.png"
+    },
+    {
+      "path": "textures/gray_plaster.png"
+    },
+    {
+      "path": "textures/gray_wall.png"
+    },
+    {
+      "path": "textures/grigia_caldera_porcelain_floor.png"
+    },
+    {
+      "path": "textures/kona_gotham.png"
+    },
+    {
+      "path": "textures/light-gray-floor-tile.png"
+    },
+    {
+      "path": "textures/light-gray-plaster.png"
+    },
+    {
+      "path": "textures/light_blue_wall.png"
+    },
+    {
+      "path": "textures/light_floor.png"
+    },
+    {
+      "path": "textures/light_gray_plaster.png"
+    },
+    {
+      "path": "textures/light_grey_plaster.png"
+    },
+    {
+      "path": "textures/marble_floor.png"
+    },
+    {
+      "path": "textures/martin_novak_wood_table.png"
+    },
+    {
+      "path": "textures/meeka-beige-plaster.png"
+    },
+    {
+      "path": "textures/new_light_gray_plaster.png"
+    },
+    {
+      "path": "textures/rustic_floor.png"
+    },
+    {
+      "path": "textures/seamless_wood_planks_floor.png"
+    },
+    {
+      "path": "textures/smooth_light_gray_plaster.png"
+    },
+    {
+      "path": "textures/stucco_wall.png"
+    },
+    {
+      "path": "textures/table_light_wood.png"
+    },
+    {
+      "path": "textures/tile_grigia_caldera_porcelain_floor.png"
+    },
+    {
+      "path": "textures/white_marble_floor.png"
+    },
+    {
+      "path": "textures/white_wall.png"
+    },
+    {
+      "path": "textures/yellow_linen_wall_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/black_book/black_book.mtl"
+    },
+    {
+      "path": "turbosquid_objects/black_book/black_book.obj"
+    },
+    {
+      "path": "turbosquid_objects/black_book/black_book.xml"
+    },
+    {
+      "path": "turbosquid_objects/black_book/black_book_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/black_book/black_book_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/black_book/visual/black_book_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/bowl_drainer/bowl_drainer.mtl"
+    },
+    {
+      "path": "turbosquid_objects/bowl_drainer/bowl_drainer.obj"
+    },
+    {
+      "path": "turbosquid_objects/bowl_drainer/bowl_drainer.xml"
+    },
+    {
+      "path": "turbosquid_objects/bowl_drainer/bowl_drainer_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/bowl_drainer/ceramic.png"
+    },
+    {
+      "path": "turbosquid_objects/bowl_drainer/visual/bowl_drainer_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy.mtl"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy.obj"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy.xml"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy_site.obj"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy_site.xml"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/desk_caddy_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/desk_caddy/visual/desk_caddy_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/dining_set_group/dining_set_group.xml"
+    },
+    {
+      "path": "turbosquid_objects/dining_set_group/dining_set_utensils.mtl"
+    },
+    {
+      "path": "turbosquid_objects/dining_set_group/dining_set_utensils.obj"
+    },
+    {
+      "path": "turbosquid_objects/dining_set_group/metal.png"
+    },
+    {
+      "path": "turbosquid_objects/dining_set_group/visual/dining_set_utensils_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/dining_set_group/white_linen_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/metal_diff.png"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot.xml"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot_body.mtl"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot_body.obj"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot_handle.mtl"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot_handle.obj"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/moka_pot_handle.xml"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/rubber_black.png"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/visual/moka_pot_body_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/moka_pot/visual/moka_pot_handle_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/porcelain_mug/porcelain_mug.mtl"
+    },
+    {
+      "path": "turbosquid_objects/porcelain_mug/porcelain_mug.obj"
+    },
+    {
+      "path": "turbosquid_objects/porcelain_mug/porcelain_mug.xml"
+    },
+    {
+      "path": "turbosquid_objects/porcelain_mug/porcelain_mug_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/porcelain_mug/porcelain_mug_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/porcelain_mug/visual/porcelain_mug_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/red_coffee_mug/red_coffee_mug.mtl"
+    },
+    {
+      "path": "turbosquid_objects/red_coffee_mug/red_coffee_mug.obj"
+    },
+    {
+      "path": "turbosquid_objects/red_coffee_mug/red_coffee_mug.xml"
+    },
+    {
+      "path": "turbosquid_objects/red_coffee_mug/red_coffee_mug_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/red_coffee_mug/red_coffee_mug_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/red_coffee_mug/visual/red_coffee_mug_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/white_storage_box/ceramic.png"
+    },
+    {
+      "path": "turbosquid_objects/white_storage_box/visual/white_storage_box_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/white_storage_box/white_storage_box.mtl"
+    },
+    {
+      "path": "turbosquid_objects/white_storage_box/white_storage_box.obj"
+    },
+    {
+      "path": "turbosquid_objects/white_storage_box/white_storage_box.xml"
+    },
+    {
+      "path": "turbosquid_objects/white_storage_box/white_storage_box_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/white_yellow_mug/visual/white_yellow_mug_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/white_yellow_mug/white_yellow_mug.mtl"
+    },
+    {
+      "path": "turbosquid_objects/white_yellow_mug/white_yellow_mug.obj"
+    },
+    {
+      "path": "turbosquid_objects/white_yellow_mug/white_yellow_mug.xml"
+    },
+    {
+      "path": "turbosquid_objects/white_yellow_mug/white_yellow_mug_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/white_yellow_mug/white_yellow_mug_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/Cork_Texture_by_faycop.jpg"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/cork_texture.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/label_wine.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/visual/wine_bottle_red_cork_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/visual/wine_bottle_red_logo_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/visual/wine_bottle_red_main_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_cork.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_cork.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_logo.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_logo.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_main.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_main.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_main.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_bottle/wine_bottle_red_main_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/light-wood.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/light_yellow_metal.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/mahogany.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/metal.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/visual/wine_rack_planes_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/visual/wine_rack_stand_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/visual/wine_rack_stoppers_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_planes.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_planes.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_planes.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_planes_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stand.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stand.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stand.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stand_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stoppers.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stoppers.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stoppers.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack/wine_rack_stoppers_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack_stand/metal.png"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack_stand/visual/wine_rack_stand_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack_stand/wine_rack_stand.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack_stand/wine_rack_stand.obj"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack_stand/wine_rack_stand.xml"
+    },
+    {
+      "path": "turbosquid_objects/wine_rack_stand/wine_rack_stand_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_cabinet_base/dark_fine_wood.png"
+    },
+    {
+      "path": "turbosquid_objects/wooden_cabinet_base/visual/wooden_cabinet_base_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wooden_cabinet_base/wooden_cabinet_base.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wooden_cabinet_base/wooden_cabinet_base.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_cabinet_base/wooden_cabinet_base.xml"
+    },
+    {
+      "path": "turbosquid_objects/wooden_cabinet_base/wooden_cabinet_base_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_shelf/dark_fine_wood.png"
+    },
+    {
+      "path": "turbosquid_objects/wooden_shelf/visual/wooden_shelf_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wooden_shelf/wooden_shelf.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wooden_shelf/wooden_shelf.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_shelf/wooden_shelf.xml"
+    },
+    {
+      "path": "turbosquid_objects/wooden_shelf/wooden_shelf_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_tray/crate_mat_BaseColor.png"
+    },
+    {
+      "path": "turbosquid_objects/wooden_tray/visual/wooden_tray_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wooden_tray/wooden_tray.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wooden_tray/wooden_tray.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_tray/wooden_tray.xml"
+    },
+    {
+      "path": "turbosquid_objects/wooden_tray/wooden_tray_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/dark_fine_wood.png"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/visual/wooden_two_layer_shelf_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/wooden_two_layer_shelf.mtl"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/wooden_two_layer_shelf.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/wooden_two_layer_shelf.xml"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/wooden_two_layer_shelf_col.obj"
+    },
+    {
+      "path": "turbosquid_objects/wooden_two_layer_shelf/wooden_two_layer_shelf_site.obj"
+    },
+    {
+      "path": "turbosquid_objects/yellow_book/visual/yellow_book_vis.msh"
+    },
+    {
+      "path": "turbosquid_objects/yellow_book/yellow_book.mtl"
+    },
+    {
+      "path": "turbosquid_objects/yellow_book/yellow_book.obj"
+    },
+    {
+      "path": "turbosquid_objects/yellow_book/yellow_book.png"
+    },
+    {
+      "path": "turbosquid_objects/yellow_book/yellow_book.xml"
+    },
+    {
+      "path": "turbosquid_objects/yellow_book/yellow_book_col.obj"
+    },
+    {
+      "path": "wall.xml"
+    },
+    {
+      "path": "wall_frames.stl"
+    }
+  ],
+  "source_revision": "8f1084e3132a39270c3a13ebe37270a43ece2a01",
+  "url": "https://codeload.github.com/Lifelong-Robot-Learning/LIBERO/tar.gz/8f1084e3132a39270c3a13ebe37270a43ece2a01",
+  "archive_sha256": "05ffcf8349b2e7ef31b038451253d76ca757debbf88c3a0c1de569ca38a80b14"
+}

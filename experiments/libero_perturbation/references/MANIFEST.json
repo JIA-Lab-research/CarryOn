@@ -1,0 +1,55 @@
+{
+  "schema": "carryon-target-references/v1",
+  "files": [
+    {
+      "object_key": "alphabet soup",
+      "path": "alphabet_soup.png",
+      "reference_id": "4338ce739e6426ed92045fc0764e0d6c52a824fcfb22bd248ae5cc79579efb79"
+    },
+    {
+      "object_key": "bbq sauce",
+      "path": "bbq_sauce.png",
+      "reference_id": "a13bc9977ca553c58a8786b230895815b3246b9ab4c436061d7cc8484e1e13e6"
+    },
+    {
+      "object_key": "butter",
+      "path": "butter.png",
+      "reference_id": "3cdc2f3ddd182c769113fe0efa670a06ee94a10d6f391a88bf519deef3baceef"
+    },
+    {
+      "object_key": "chocolate pudding",
+      "path": "chocolate_pudding.png",
+      "reference_id": "58b1b0039265f76061b2608b34bd003609ec5960c98a8070ae7a516180883425"
+    },
+    {
+      "object_key": "cream cheese",
+      "path": "cream_cheese.png",
+      "reference_id": "c40cc5a19c0bbd4e23e6d5173256bfa42228134db05191429d78cad6c72266f7"
+    },
+    {
+      "object_key": "ketchup",
+      "path": "ketchup.png",
+      "reference_id": "57526286c7d8c82966f600bd0c66024542286c6ffec7981c393e40171c52178e"
+    },
+    {
+      "object_key": "milk",
+      "path": "milk.png",
+      "reference_id": "840ffcddbb2341a1f704323e9618bd5bdf39d112738f3dee9446777ec083e9af"
+    },
+    {
+      "object_key": "orange juice",
+      "path": "orange_juice.png",
+      "reference_id": "2348df5a0faf6c7498a593cc3b8ce0fa5bd35c2627e9c5bd882c59f2879a29cf"
+    },
+    {
+      "object_key": "salad dressing",
+      "path": "salad_dressing.png",
+      "reference_id": "e934f1f4fed555ef2542118d4b795e0e53ed29e423a7c1710d5d27159390784e"
+    },
+    {
+      "object_key": "tomato sauce",
+      "path": "tomato_sauce.png",
+      "reference_id": "28c49a548a73325aef51e2314c6899a6f3e308042c58c2e0adc5f234d6ef0dd1"
+    }
+  ]
+}
